@@ -3,6 +3,7 @@
 # dependencies
 /node_modules
 components
+components/
 node_modules
 /.pnp
 .pnp.*
