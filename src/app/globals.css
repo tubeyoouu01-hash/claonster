@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0f2a43;
+  --color-ink-deep: #0a1c2e;
+  --color-navy: #16324f;
+  --color-navy-light: #274a6e;
+  --color-gold: #b8924a;
+  --color-gold-light: #d4b783;
+  --color-paper: #f7f4ee;
+  --color-paper-dim: #efe9de;
+  --color-slate: #3d4550;
+  --color-slate-light: #6b7280;
+  --color-hairline: #d8d0bf;
+
+  --font-display: var(--font-lora), Georgia, "Times New Roman", serif;
+  --font-body: var(--font-public-sans), -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+body {
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+::selection {
+  background-color: var(--color-gold-light);
+  color: var(--color-ink-deep);
+}
+
+.brass-rule {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-gold) 50%, transparent);
+}
+
+.paper-texture {
+  background-image: radial-gradient(var(--color-hairline) 0.5px, transparent 0.5px);
+  background-size: 18px 18px;
+}
