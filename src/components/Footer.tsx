@@ -18,7 +18,7 @@ export function Footer({ locale, dict }: { locale: Locale; dict: Dictionary }) {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="bg-ink-deep text-paper/70">
+    <footer className="bg-ink text-paper/70">
       <div className="mx-auto max-w-7xl px-6 py-16 grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-4">
         <div>
           <span className="font-display text-xl text-paper">Fairhaven</span>

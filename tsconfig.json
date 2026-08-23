@@ -36,6 +36,8 @@
     "tailwind.config.js",
     "src/app/clientserver/encryptKey",
     ".next/dev/types/**/*.ts"
+
+    
   ],
   "exclude": [
     "node_modules"

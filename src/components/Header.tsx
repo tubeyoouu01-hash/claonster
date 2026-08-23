@@ -52,12 +52,12 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
             </span>
           </Link>
 
-          <nav className="hidden lg:flex items-center gap-8">
+          <nav className="hidden lg:flex  items-center gap-8">
             {navItems.map((item) => (
               <Link
                 key={item.href}
                 href={item.href}
-                className="text-sm text-paper/85 hover:text-gold transition-colors"
+                className="text-sm  text-paper/85 hover:text-gold transition-colors"
               >
                 {item.label}
               </Link>
@@ -104,6 +104,20 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
           </nav>
         )}
       </div>
+
+      {/* <div className="space-y-4 p-10">
+  <div className="bg-ink p-10 text-white">INK</div>
+  <div className="bg-ink-deep p-10 text-white">INK DEEP</div>
+  <div className="bg-navy p-10 text-white">NAVY</div>
+  <div className="bg-navy-light p-10 text-white">NAVY LIGHT</div>
+  <div className="bg-gold p-10 text-white">GOLD</div>
+  <div className="bg-gold-light p-10 text-white">GOLD LIGHT</div>
+  <div className="bg-paper p-10">PAPER</div>
+  <div className="bg-paper-dim p-10">PAPER DIM</div>
+  <div className="bg-slate p-10 text-white">SLATE</div>
+  <div className="bg-slate-light p-10 text-white">SLATE LIGHT</div>
+</div> */}
+
     </header>
   );
 }
