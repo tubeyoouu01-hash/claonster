@@ -6,6 +6,15 @@ import { Menu, X, Phone, Mail } from "lucide-react";
 import type { Locale } from "@/lib/locales";
 import type { Dictionary } from "@/lib/get-dictionary";
 import { LanguageSwitcher } from "./LanguageSwitcher";
+import { LogoMark } from "./LogoMark";
+import {
+  SITE_SHORT_NAME,
+  SITE_SUFFIX,
+  CONTACT_EMAIL,
+  CONTACT_PHONE_DISPLAY,
+  CONTACT_PHONE_HREF,
+  OFFICE_CITY_LINE,
+} from "@/lib/site-config";
 
 export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
   const [open, setOpen] = useState(false);
@@ -26,16 +35,16 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
       <div className="bg-ink-deep text-paper/70 text-xs">
         <div className="mx-auto max-w-7xl px-6 flex items-center justify-between h-9">
           <div className="hidden sm:flex items-center gap-5">
-            <span className="flex items-center gap-1.5">
+            <a href={`tel:${CONTACT_PHONE_HREF}`} className="flex items-center gap-1.5 hover:text-gold transition-colors">
               <Phone className="h-3 w-3" strokeWidth={1.75} />
-              +61 2 5550 1234
-            </span>
-            <span className="flex items-center gap-1.5">
+              {CONTACT_PHONE_DISPLAY}
+            </a>
+            <a href={`mailto:${CONTACT_EMAIL}`} className="flex items-center gap-1.5 hover:text-gold transition-colors">
               <Mail className="h-3 w-3" strokeWidth={1.75} />
-              hello@fairhavencapital.example
-            </span>
+              {CONTACT_EMAIL}
+            </a>
           </div>
-          <span className="sm:hidden">{dict.footer.location}</span>
+          <span className="sm:hidden">{OFFICE_CITY_LINE}</span>
           <LanguageSwitcher current={locale} />
         </div>
       </div>
@@ -43,21 +52,24 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
       {/* Main nav */}
       <div className="bg-ink border-b border-gold/30">
         <div className="mx-auto max-w-7xl px-6 flex items-center justify-between h-20">
-          <Link href={`/${locale}`} className="flex flex-col leading-none group">
-            <span className="font-display text-2xl tracking-wide text-paper group-hover:text-gold transition-colors">
-              Fairhaven
-            </span>
-            <span className="text-[0.65rem] tracking-[0.25em] uppercase text-gold mt-1">
-              Capital Partners
+          <Link href={`/${locale}`} className="flex items-center gap-3 group">
+            <LogoMark className="h-10 w-10" />
+            <span className="flex flex-col leading-none">
+              <span className="font-display text-2xl tracking-wide text-paper group-hover:text-gold transition-colors">
+                {SITE_SHORT_NAME}
+              </span>
+              <span className="text-[0.65rem] tracking-[0.25em] uppercase text-gold mt-1">
+                {SITE_SUFFIX}
+              </span>
             </span>
           </Link>
 
-          <nav className="hidden lg:flex  items-center gap-8">
+          <nav className="hidden lg:flex items-center gap-8">
             {navItems.map((item) => (
               <Link
                 key={item.href}
                 href={item.href}
-                className="text-sm  text-paper/85 hover:text-gold transition-colors"
+                className="text-sm text-paper/85 hover:text-gold transition-colors"
               >
                 {item.label}
               </Link>
@@ -104,20 +116,6 @@ export function Header({ locale, dict }: { locale: Locale; dict: Dictionary }) {
           </nav>
         )}
       </div>
-
-      {/* <div className="space-y-4 p-10">
-  <div className="bg-ink p-10 text-white">INK</div>
-  <div className="bg-ink-deep p-10 text-white">INK DEEP</div>
-  <div className="bg-navy p-10 text-white">NAVY</div>
-  <div className="bg-navy-light p-10 text-white">NAVY LIGHT</div>
-  <div className="bg-gold p-10 text-white">GOLD</div>
-  <div className="bg-gold-light p-10 text-white">GOLD LIGHT</div>
-  <div className="bg-paper p-10">PAPER</div>
-  <div className="bg-paper-dim p-10">PAPER DIM</div>
-  <div className="bg-slate p-10 text-white">SLATE</div>
-  <div className="bg-slate-light p-10 text-white">SLATE LIGHT</div>
-</div> */}
-
     </header>
   );
 }

@@ -5,6 +5,7 @@ import { locales, isLocale, type Locale } from "@/lib/locales";
 import { getDictionary } from "@/lib/get-dictionary";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
+import { SITE_NAME } from "@/lib/site-config";
 import "../globals.css";
 
 const lora = Lora({
@@ -34,7 +35,7 @@ export async function generateMetadata({
   if (!isLocale(locale)) return {};
   const dict = await getDictionary(locale);
   return {
-    title: `${dict.meta.siteName} — ${dict.meta.tagline}`,
+    title: `${SITE_NAME} — ${dict.meta.tagline}`,
     description: dict.home.heroSubtitle,
   };
 }

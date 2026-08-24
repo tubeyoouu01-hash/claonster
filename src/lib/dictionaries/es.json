@@ -1,6 +1,5 @@
 {
   "meta": {
-    "siteName": "Fairhaven Capital Partners",
     "tagline": "Préstamos de Bajo Interés y Financiamiento de Proyectos",
     "subTagline": "Préstamos Sin Garantía para Empresas y Particulares"
   },
@@ -15,7 +14,7 @@
     "apply": "Solicitar Ahora"
   },
   "footer": {
-    "description": "Un sitio de demostración para una correduría de préstamos, creado con fines de portafolio. Fairhaven Capital Partners es una empresa ficticia; todos los nombres, cifras y datos de contacto son de muestra.",
+    "description": "Un sitio de demostración para una correduría de préstamos, creado con fines de portafolio. {{siteName}} es una empresa ficticia; todos los nombres, cifras y datos de contacto son de muestra.",
     "quickLinks": "Enlaces Rápidos",
     "sectors": "Sectores Atendidos",
     "getInTouch": "Contáctanos",
@@ -23,8 +22,7 @@
     "rights": "Todos los derechos reservados.",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
-    "disclaimer": "Sitio de demostración solo con fines de portafolio. No es una institución financiera real. No se ofrecen ni originan préstamos reales en este sitio.",
-    "location": "Sídney, Australia (ubicación de muestra)"
+    "disclaimer": "Sitio de demostración solo con fines de portafolio. No es una institución financiera real. No se ofrecen ni originan préstamos reales en este sitio."
   },
   "common": {
     "learnMore": "Saber Más",
@@ -40,14 +38,26 @@
   "home": {
     "heroEyebrow": "Fundada (año de muestra) 2004 — Sídney, Australia",
     "heroTitle": "Financiamiento pensado para cómo se mueven realmente los proyectos.",
-    "heroSubtitle": "Fairhaven Capital Partners organiza préstamos de bajo interés y financiamiento de proyectos en trece sectores, con opciones sin garantía para fundadores y familias que necesitan capital sin comprometer sus activos.",
+    "heroSubtitle": "{{siteName}} organiza préstamos de bajo interés y financiamiento de proyectos en trece sectores, con opciones sin garantía para fundadores y familias que necesitan capital sin comprometer sus activos.",
     "heroCtaPrimary": "Solicitar Ahora",
     "heroCtaSecondary": "Ver Cómo Funciona",
     "stats": [
-      { "value": "20+", "label": "Años de Trayectoria (muestra)" },
-      { "value": "13", "label": "Sectores Financiados" },
-      { "value": "A$1.2B+", "label": "Facilidades Organizadas (muestra)" },
-      { "value": "48 hrs", "label": "Respuesta Inicial Promedio" }
+      {
+        "value": "20+",
+        "label": "Años de Trayectoria (muestra)"
+      },
+      {
+        "value": "13",
+        "label": "Sectores Financiados"
+      },
+      {
+        "value": "A$1.2B+",
+        "label": "Facilidades Organizadas (muestra)"
+      },
+      {
+        "value": "48 hrs",
+        "label": "Respuesta Inicial Promedio"
+      }
     ],
     "productsTitle": "Dos formas de financiar lo que sigue",
     "productsSubtitle": "Ya sea que estés financiando un proyecto o cubriendo un hito personal, estructuramos las facilidades según tu flujo de caja, no solo tu garantía.",
@@ -61,27 +71,39 @@
     "personalSubtitle": "Matrícula escolar, viajes, gastos médicos, tu primera vivienda o un auto nuevo: los hitos personales merecen el mismo enfoque estructurado que una facilidad empresarial.",
     "howTitle": "Un camino claro desde la consulta hasta el financiamiento",
     "howSubtitle": "Cuatro pasos, transparentes en cada etapa.",
-    "quoteText": "Fairhaven se tomó el tiempo de entender nuestro cronograma de desembolso antes de proponer una estructura. Eso es poco común.",
+    "quoteText": "{{shortName}} se tomó el tiempo de entender nuestro cronograma de desembolso antes de proponer una estructura. Eso es poco común.",
     "quoteAttribution": "Testimonio de muestra — Directora de Operaciones, Sector Manufactura",
     "ctaTitle": "¿Listo para hablar de financiamiento?",
     "ctaBody": "Envíanos algunos datos sobre tu proyecto o necesidad de financiamiento personal y nuestro equipo asesor responderá dentro de dos días hábiles.",
     "ctaButton": "Iniciar Tu Solicitud"
   },
   "about": {
-    "heroTitle": "Sobre Fairhaven Capital Partners",
+    "heroTitle": "Sobre {{siteName}}",
     "heroSubtitle": "Una correduría de préstamos con sede en Sídney, enfocada en financiamiento estructurado y especializado por sector.",
     "storyTitle": "Nuestra Historia",
-    "storyBody1": "Fairhaven Capital Partners se fundó a partir de una observación simple: la mayoría de los prestatarios no fracasan porque su negocio sea débil, sino porque su financiamiento no coincide con la forma en que su negocio realmente gana y gasta. Construimos nuestra práctica de asesoría a partir de esa brecha.",
+    "storyBody1": "{{siteName}} se fundó a partir de una observación simple: la mayoría de los prestatarios no fracasan porque su negocio sea débil, sino porque su financiamiento no coincide con la forma en que su negocio realmente gana y gasta. Construimos nuestra práctica de asesoría a partir de esa brecha.",
     "storyBody2": "Hoy nuestro equipo trabaja en trece sectores industriales, desde la agricultura hasta las telecomunicaciones, estructurando facilidades de bajo interés y préstamos sin garantía para empresas y particulares en Australia y más allá.",
     "storyBody3": "Esta página describe una empresa ficticia creada para un portafolio de diseño. Cualquier cifra, fecha o logro mencionado aquí es ilustrativo y no representa a una institución financiera real en operación.",
     "missionTitle": "Nuestra Misión",
     "missionBody": "Estructurar financiamiento que se ajuste al ritmo del flujo de caja del prestatario, y no al revés.",
     "valuesTitle": "Lo que guía nuestra labor de asesoría",
     "values": [
-      { "title": "Transparencia", "body": "Términos claros, costos revelados y ninguna estructura que nuestro equipo no recomendaría a su propia familia." },
-      { "title": "Conocimiento Sectorial", "body": "Asesores que entienden los cronogramas de desembolso, el flujo de caja estacional y el riesgo específico de cada industria antes de proponer condiciones." },
-      { "title": "Rapidez con Diligencia", "body": "Tiempos de respuesta iniciales rápidos, sin omitir el análisis que protege a ambas partes." },
-      { "title": "Relaciones a Largo Plazo", "body": "Estructuramos facilidades que esperamos revisar a medida que evoluciona tu proyecto o etapa de vida." }
+      {
+        "title": "Transparencia",
+        "body": "Términos claros, costos revelados y ninguna estructura que nuestro equipo no recomendaría a su propia familia."
+      },
+      {
+        "title": "Conocimiento Sectorial",
+        "body": "Asesores que entienden los cronogramas de desembolso, el flujo de caja estacional y el riesgo específico de cada industria antes de proponer condiciones."
+      },
+      {
+        "title": "Rapidez con Diligencia",
+        "body": "Tiempos de respuesta iniciales rápidos, sin omitir el análisis que protege a ambas partes."
+      },
+      {
+        "title": "Relaciones a Largo Plazo",
+        "body": "Estructuramos facilidades que esperamos revisar a medida que evoluciona tu proyecto o etapa de vida."
+      }
     ],
     "teamTitle": "Nuestro Equipo Asesor",
     "teamBody": "Nuestros asesores están organizados por sector para que cada consulta llegue a alguien familiarizado con los patrones de financiamiento de esa industria. En este sitio de muestra no se muestran nombres ni datos de contacto directo de asesores individuales; usa la página de Contacto para comunicarte con el equipo.",
@@ -91,10 +113,22 @@
     "heroTitle": "Cómo Funciona",
     "heroSubtitle": "Desde la primera consulta hasta la facilidad financiada, así se ve el proceso.",
     "steps": [
-      { "title": "Cuéntanos tu necesidad", "body": "Envía una breve solicitud que describa tu proyecto, sector y el monto que buscas financiar, ya sea empresarial o personal." },
-      { "title": "Revisión de asesoría", "body": "Un asesor especializado en tu sector revisa tu solicitud y se comunica contigo para conversar sobre la estructura, los plazos y la documentación requerida." },
-      { "title": "Estructuración y oferta", "body": "Preparamos una propuesta de facilidad —tasa, plazo y estructura de pago— ajustada a tu flujo de caja o cronograma de desembolso." },
-      { "title": "Financiamiento", "body": "Una vez aceptados los términos y finalizada la documentación, los fondos se liberan según el cronograma acordado." }
+      {
+        "title": "Cuéntanos tu necesidad",
+        "body": "Envía una breve solicitud que describa tu proyecto, sector y el monto que buscas financiar, ya sea empresarial o personal."
+      },
+      {
+        "title": "Revisión de asesoría",
+        "body": "Un asesor especializado en tu sector revisa tu solicitud y se comunica contigo para conversar sobre la estructura, los plazos y la documentación requerida."
+      },
+      {
+        "title": "Estructuración y oferta",
+        "body": "Preparamos una propuesta de facilidad —tasa, plazo y estructura de pago— ajustada a tu flujo de caja o cronograma de desembolso."
+      },
+      {
+        "title": "Financiamiento",
+        "body": "Una vez aceptados los términos y finalizada la documentación, los fondos se liberan según el cronograma acordado."
+      }
     ],
     "timelineTitle": "Cronograma típico",
     "timelineBody": "Respuesta inicial en 48 horas, términos indicativos dentro de 5 días hábiles, y plazos de financiamiento que varían según el tamaño de la facilidad y la complejidad del sector.",
@@ -205,7 +239,11 @@
       "purpose": "Cuéntanos sobre tu proyecto o necesidad",
       "submit": "Enviar Solicitud"
     },
-    "loanCategoryOptions": ["Préstamo Empresarial — Bajo Interés / Financiamiento de Proyectos", "Préstamo Empresarial — Sin Garantía", "Préstamo Personal"],
+    "loanCategoryOptions": [
+      "Préstamo Empresarial — Bajo Interés / Financiamiento de Proyectos",
+      "Préstamo Empresarial — Sin Garantía",
+      "Préstamo Personal"
+    ],
     "disclaimer": "Este es un formulario de muestra para un proyecto de portafolio. Al enviarlo se abrirá tu cliente de correo con un mensaje prellenado; no se envían datos a un servidor real.",
     "successNote": "Tu cliente de correo debería abrirse ahora con los datos de tu solicitud prellenados."
   },
@@ -214,11 +252,8 @@
     "heroSubtitle": "¿Preguntas antes de solicitar? Comunícate con el equipo asesor de muestra abajo.",
     "detailsTitle": "Datos de Contacto",
     "addressLabel": "Oficina",
-    "address": "Nivel 12, 1 Calle de Muestra, Sídney NSW 2000, Australia (dirección de muestra)",
     "emailLabel": "Correo",
-    "email": "hello@fairhavencapital.example",
     "phoneLabel": "Teléfono",
-    "phone": "+61 2 5550 1234 (número de muestra)",
     "hoursLabel": "Horario",
     "hours": "Lunes a viernes, 9:00–17:30 (AEST)",
     "formTitle": "Enviar un Mensaje",
@@ -236,12 +271,30 @@
     "heroTitle": "Preguntas Frecuentes",
     "heroSubtitle": "Respuestas a preguntas comunes sobre nuestro proceso de financiamiento.",
     "items": [
-      { "q": "¿Cuál es la diferencia entre los dos productos de préstamo?", "a": "Los Préstamos de Bajo Interés y Financiamiento de Proyectos suelen ajustarse a un proyecto específico o gasto de capital y pueden requerir garantía. Los Préstamos Sin Garantía se basan en el flujo de caja y la trayectoria, para prestatarios calificados que necesitan fondos sin comprometer activos." },
-      { "q": "¿Qué sectores financian?", "a": "Estructuramos facilidades en trece sectores empresariales —desde salud hasta marítimo— además de financiamiento personal para educación, viajes, salud, vivienda y vehículos." },
-      { "q": "¿Cuánto tarda una solicitud?", "a": "La respuesta inicial suele darse dentro de 48 horas, con términos indicativos en aproximadamente cinco días hábiles, según el tamaño de la facilidad y la complejidad del sector." },
-      { "q": "¿Necesito garantía para calificar?", "a": "No necesariamente. Nuestras opciones sin garantía evalúan el historial comercial, los ingresos y la capacidad de pago en lugar de exigir una propiedad o activo en garantía." },
-      { "q": "¿Es esta una institución de préstamos real?", "a": "No: este es un sitio web de muestra creado con fines de portafolio de diseño. Fairhaven Capital Partners es una empresa ficticia y no se ofrecen préstamos reales." },
-      { "q": "¿Qué documentos necesitaré?", "a": "Generalmente, comprobante de identidad, un resumen financiero, una breve descripción del proyecto o propósito, y extractos bancarios recientes. También puede aplicar documentación específica del sector." }
+      {
+        "q": "¿Cuál es la diferencia entre los dos productos de préstamo?",
+        "a": "Los Préstamos de Bajo Interés y Financiamiento de Proyectos suelen ajustarse a un proyecto específico o gasto de capital y pueden requerir garantía. Los Préstamos Sin Garantía se basan en el flujo de caja y la trayectoria, para prestatarios calificados que necesitan fondos sin comprometer activos."
+      },
+      {
+        "q": "¿Qué sectores financian?",
+        "a": "Estructuramos facilidades en trece sectores empresariales —desde salud hasta marítimo— además de financiamiento personal para educación, viajes, salud, vivienda y vehículos."
+      },
+      {
+        "q": "¿Cuánto tarda una solicitud?",
+        "a": "La respuesta inicial suele darse dentro de 48 horas, con términos indicativos en aproximadamente cinco días hábiles, según el tamaño de la facilidad y la complejidad del sector."
+      },
+      {
+        "q": "¿Necesito garantía para calificar?",
+        "a": "No necesariamente. Nuestras opciones sin garantía evalúan el historial comercial, los ingresos y la capacidad de pago en lugar de exigir una propiedad o activo en garantía."
+      },
+      {
+        "q": "¿Es esta una institución de préstamos real?",
+        "a": "No: este es un sitio web de muestra creado con fines de portafolio de diseño. {{siteName}} es una empresa ficticia y no se ofrecen préstamos reales."
+      },
+      {
+        "q": "¿Qué documentos necesitaré?",
+        "a": "Generalmente, comprobante de identidad, un resumen financiero, una breve descripción del proyecto o propósito, y extractos bancarios recientes. También puede aplicar documentación específica del sector."
+      }
     ]
   },
   "legal": {

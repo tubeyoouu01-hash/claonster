@@ -3,8 +3,7 @@
 import { useState } from "react";
 import type { Dictionary } from "@/lib/get-dictionary";
 import { Send } from "lucide-react";
-
-const TARGET_EMAIL = "hello@fairhavencapital.example";
+import { CONTACT_EMAIL } from "@/lib/site-config";
 
 export function ApplyForm({ dict }: { dict: Dictionary }) {
   const [submitted, setSubmitted] = useState(false);
@@ -25,7 +24,7 @@ export function ApplyForm({ dict }: { dict: Dictionary }) {
       `Full Name: ${name}\nEmail: ${email}\nPhone: ${phone}\nLoan Category: ${category}\nSector: ${sector}\nApproximate Amount: ${amount}\n\nDetails:\n${purpose}`
     );
 
-    window.location.href = `mailto:${TARGET_EMAIL}?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:${CONTACT_EMAIL}?subject=${subject}&body=${body}`;
     setSubmitted(true);
   }
 
@@ -77,7 +76,7 @@ export function ApplyForm({ dict }: { dict: Dictionary }) {
         <textarea required name="purpose" rows={5} className={inputClass} />
       </div>
 
-      <p className="text-xs text-slate-light italic">{dict.apply.disclaimer}</p>
+      {/* <p className="text-xs text-slate-light italic">{dict.apply.disclaimer}</p> */}
 
       <button
         type="submit"

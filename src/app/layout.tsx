@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
+import { SITE_NAME } from "@/lib/site-config";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Fairhaven Capital Partners",
+  title: SITE_NAME,
   description: "Sample lending brokerage website — portfolio demonstration only.",
 };
 

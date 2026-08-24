@@ -1,10 +1,9 @@
 @import "tailwindcss";
 @source "../app";
 @source "../components";
-
 @theme {
-  --color-ink-deep: #0a1c2e;
   --color-ink: #0f2a43;
+  --color-ink-deep: #0a1c2e;
   --color-navy: #16324f;
   --color-navy-light: #274a6e;
   --color-gold: #b8924a;

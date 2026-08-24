@@ -1,6 +1,5 @@
 {
   "meta": {
-    "siteName": "Fairhaven Capital Partners",
     "tagline": "Prêts à Faible Taux et Financement de Projets",
     "subTagline": "Prêts Sans Garantie pour Entreprises et Particuliers"
   },
@@ -15,7 +14,7 @@
     "apply": "Faire une Demande"
   },
   "footer": {
-    "description": "Un site de démonstration pour un courtier en prêts, créé à des fins de portfolio. Fairhaven Capital Partners est une entreprise fictive ; tous les noms, chiffres et coordonnées sont des exemples.",
+    "description": "Un site de démonstration pour un courtier en prêts, créé à des fins de portfolio. {{siteName}} est une entreprise fictive ; tous les noms, chiffres et coordonnées sont des exemples.",
     "quickLinks": "Liens Rapides",
     "sectors": "Secteurs Desservis",
     "getInTouch": "Nous Contacter",
@@ -23,8 +22,7 @@
     "rights": "Tous droits réservés.",
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
-    "disclaimer": "Site de démonstration à des fins de portfolio uniquement. Ce n'est pas une véritable institution financière. Aucun prêt réel n'est proposé ou émis via ce site.",
-    "location": "Sydney, Australie (lieu fictif)"
+    "disclaimer": "Site de démonstration à des fins de portfolio uniquement. Ce n'est pas une véritable institution financière. Aucun prêt réel n'est proposé ou émis via ce site."
   },
   "common": {
     "learnMore": "En Savoir Plus",
@@ -40,14 +38,26 @@
   "home": {
     "heroEyebrow": "Fondée en (année fictive) 2004 — Sydney, Australie",
     "heroTitle": "Un financement pensé pour la façon dont les projets avancent réellement.",
-    "heroSubtitle": "Fairhaven Capital Partners organise des prêts à faible taux et du financement de projets dans treize secteurs, avec des options sans garantie pour les fondateurs et les familles qui ont besoin de capitaux sans immobiliser leurs actifs.",
+    "heroSubtitle": "{{siteName}} organise des prêts à faible taux et du financement de projets dans treize secteurs, avec des options sans garantie pour les fondateurs et les familles qui ont besoin de capitaux sans immobiliser leurs actifs.",
     "heroCtaPrimary": "Faire une Demande",
     "heroCtaSecondary": "Voir Comment Ça Marche",
     "stats": [
-      { "value": "20+", "label": "Années d'Expérience (fictif)" },
-      { "value": "13", "label": "Secteurs Financés" },
-      { "value": "A$1.2Md+", "label": "Facilités Organisées (fictif)" },
-      { "value": "48 h", "label": "Réponse Initiale Moyenne" }
+      {
+        "value": "20+",
+        "label": "Années d'Expérience (fictif)"
+      },
+      {
+        "value": "13",
+        "label": "Secteurs Financés"
+      },
+      {
+        "value": "A$1.2Md+",
+        "label": "Facilités Organisées (fictif)"
+      },
+      {
+        "value": "48 h",
+        "label": "Réponse Initiale Moyenne"
+      }
     ],
     "productsTitle": "Deux façons de financer la suite",
     "productsSubtitle": "Que vous financiez un projet ou couvriez une étape personnelle, nous structurons les facilités en fonction de votre flux de trésorerie, pas seulement de vos garanties.",
@@ -61,27 +71,39 @@
     "personalSubtitle": "Frais de scolarité, voyages, frais médicaux, première maison ou nouvelle voiture — les étapes personnelles méritent la même approche structurée qu'une facilité d'entreprise.",
     "howTitle": "Un parcours clair, de la demande au financement",
     "howSubtitle": "Quatre étapes, transparentes à chaque instant.",
-    "quoteText": "Fairhaven a pris le temps de comprendre notre calendrier de décaissement avant de proposer une structure. C'est rare.",
+    "quoteText": "{{shortName}} a pris le temps de comprendre notre calendrier de décaissement avant de proposer une structure. C'est rare.",
     "quoteAttribution": "Témoignage fictif — Directrice des Opérations, Secteur Manufacturier",
     "ctaTitle": "Prêt à parler financement ?",
     "ctaBody": "Envoyez-nous quelques informations sur votre projet ou votre besoin de financement personnel, et notre équipe de conseillers répondra sous deux jours ouvrés.",
     "ctaButton": "Démarrer Votre Demande"
   },
   "about": {
-    "heroTitle": "À Propos de Fairhaven Capital Partners",
+    "heroTitle": "À Propos de {{siteName}}",
     "heroSubtitle": "Un courtier en prêts basé à Sydney, bâti autour d'un financement structuré et adapté à chaque secteur.",
     "storyTitle": "Notre Histoire",
-    "storyBody1": "Fairhaven Capital Partners est né d'un constat simple : la plupart des emprunteurs échouent non pas parce que leur entreprise est faible, mais parce que leur financement ne correspond pas à la façon dont leur entreprise gagne et dépense réellement. Nous avons bâti notre pratique de conseil autour de cet écart.",
+    "storyBody1": "{{siteName}} est né d'un constat simple : la plupart des emprunteurs échouent non pas parce que leur entreprise est faible, mais parce que leur financement ne correspond pas à la façon dont leur entreprise gagne et dépense réellement. Nous avons bâti notre pratique de conseil autour de cet écart.",
     "storyBody2": "Aujourd'hui, notre équipe intervient dans treize secteurs industriels, de l'agriculture aux télécommunications, en structurant des facilités à faible taux et des prêts sans garantie pour les entreprises et les particuliers en Australie et au-delà.",
     "storyBody3": "Cette page décrit une entreprise fictive créée pour un portfolio de design. Les chiffres, dates ou réalisations mentionnés ici sont illustratifs et ne représentent pas une véritable institution financière en activité.",
     "missionTitle": "Notre Mission",
     "missionBody": "Structurer un financement qui s'adapte au rythme de trésorerie de l'emprunteur, et non l'inverse.",
     "valuesTitle": "Ce qui guide notre travail de conseil",
     "values": [
-      { "title": "Transparence", "body": "Des conditions claires, des coûts divulgués, et aucune structure que notre équipe ne recommanderait pas à sa propre famille." },
-      { "title": "Maîtrise Sectorielle", "body": "Des conseillers qui comprennent les calendriers de décaissement, la trésorerie saisonnière et les risques propres à chaque secteur avant de proposer des conditions." },
-      { "title": "Rapidité et Rigueur", "body": "Des délais de réponse initiaux rapides, sans jamais négliger l'analyse qui protège les deux parties." },
-      { "title": "Relations à Long Terme", "body": "Nous structurons des facilités que nous prévoyons de revoir à mesure que votre projet ou votre vie évolue." }
+      {
+        "title": "Transparence",
+        "body": "Des conditions claires, des coûts divulgués, et aucune structure que notre équipe ne recommanderait pas à sa propre famille."
+      },
+      {
+        "title": "Maîtrise Sectorielle",
+        "body": "Des conseillers qui comprennent les calendriers de décaissement, la trésorerie saisonnière et les risques propres à chaque secteur avant de proposer des conditions."
+      },
+      {
+        "title": "Rapidité et Rigueur",
+        "body": "Des délais de réponse initiaux rapides, sans jamais négliger l'analyse qui protège les deux parties."
+      },
+      {
+        "title": "Relations à Long Terme",
+        "body": "Nous structurons des facilités que nous prévoyons de revoir à mesure que votre projet ou votre vie évolue."
+      }
     ],
     "teamTitle": "Notre Équipe de Conseillers",
     "teamBody": "Nos conseillers sont organisés par secteur afin que chaque demande soit traitée par une personne familière des schémas de financement de l'industrie concernée. Les noms et coordonnées directes des conseillers ne sont pas affichés sur ce site fictif ; utilisez la page Contact pour joindre l'équipe.",
@@ -91,10 +113,22 @@
     "heroTitle": "Comment Ça Marche",
     "heroSubtitle": "De la première demande à la facilité financée, voici à quoi ressemble le processus.",
     "steps": [
-      { "title": "Parlez-nous de votre besoin", "body": "Soumettez une brève demande décrivant votre projet, votre secteur et le montant que vous souhaitez financer, à titre professionnel ou personnel." },
-      { "title": "Examen par un conseiller", "body": "Un conseiller spécialisé dans votre secteur examine votre demande et vous contacte pour discuter de la structure, des délais et de la documentation requise." },
-      { "title": "Structuration et offre", "body": "Nous préparons une proposition de facilité — taux, durée et structure de remboursement — adaptée à votre trésorerie ou à votre calendrier de décaissement." },
-      { "title": "Financement", "body": "Une fois les conditions acceptées et la documentation finalisée, les fonds sont débloqués selon le calendrier convenu." }
+      {
+        "title": "Parlez-nous de votre besoin",
+        "body": "Soumettez une brève demande décrivant votre projet, votre secteur et le montant que vous souhaitez financer, à titre professionnel ou personnel."
+      },
+      {
+        "title": "Examen par un conseiller",
+        "body": "Un conseiller spécialisé dans votre secteur examine votre demande et vous contacte pour discuter de la structure, des délais et de la documentation requise."
+      },
+      {
+        "title": "Structuration et offre",
+        "body": "Nous préparons une proposition de facilité — taux, durée et structure de remboursement — adaptée à votre trésorerie ou à votre calendrier de décaissement."
+      },
+      {
+        "title": "Financement",
+        "body": "Une fois les conditions acceptées et la documentation finalisée, les fonds sont débloqués selon le calendrier convenu."
+      }
     ],
     "timelineTitle": "Délai type",
     "timelineBody": "Réponse initiale sous 48 heures, conditions indicatives sous environ 5 jours ouvrés, et délais de financement variables selon la taille de la facilité et la complexité du secteur.",
@@ -205,7 +239,11 @@
       "purpose": "Parlez-nous de votre projet ou besoin",
       "submit": "Soumettre la Demande"
     },
-    "loanCategoryOptions": ["Prêt Entreprise — Faible Taux / Financement de Projet", "Prêt Entreprise — Sans Garantie", "Prêt Personnel"],
+    "loanCategoryOptions": [
+      "Prêt Entreprise — Faible Taux / Financement de Projet",
+      "Prêt Entreprise — Sans Garantie",
+      "Prêt Personnel"
+    ],
     "disclaimer": "Ceci est un formulaire fictif pour un projet de portfolio. L'envoyer ouvrira votre client de messagerie avec un message pré-rempli ; aucune donnée n'est envoyée à un serveur réel.",
     "successNote": "Votre client de messagerie devrait maintenant s'ouvrir avec les détails de votre demande pré-remplis."
   },
@@ -214,11 +252,8 @@
     "heroSubtitle": "Des questions avant de faire une demande ? Contactez l'équipe de conseil fictive ci-dessous.",
     "detailsTitle": "Coordonnées",
     "addressLabel": "Bureau",
-    "address": "Niveau 12, 1 Rue Fictive, Sydney NSW 2000, Australie (adresse fictive)",
     "emailLabel": "E-mail",
-    "email": "hello@fairhavencapital.example",
     "phoneLabel": "Téléphone",
-    "phone": "+61 2 5550 1234 (numéro fictif)",
     "hoursLabel": "Horaires",
     "hours": "Lundi–vendredi, 9h00–17h30 (AEST)",
     "formTitle": "Envoyer un Message",
@@ -236,12 +271,30 @@
     "heroTitle": "Foire Aux Questions",
     "heroSubtitle": "Réponses aux questions courantes sur notre processus de financement.",
     "items": [
-      { "q": "Quelle est la différence entre les deux produits de prêt ?", "a": "Les Prêts à Faible Taux et Financement de Projets sont généralement alignés sur un projet spécifique ou une dépense d'investissement et peuvent impliquer une garantie. Les Prêts Sans Garantie sont basés sur la trésorerie et la réputation, pour les emprunteurs admissibles ayant besoin de fonds sans mettre en gage d'actifs." },
-      { "q": "Quels secteurs financez-vous ?", "a": "Nous structurons des facilités dans treize secteurs d'activité — de la santé au maritime — ainsi qu'un financement personnel pour l'éducation, les voyages, la santé, le logement et les véhicules." },
-      { "q": "Combien de temps prend une demande ?", "a": "La réponse initiale intervient généralement sous 48 heures, avec des conditions indicatives sous environ cinq jours ouvrés, selon la taille de la facilité et la complexité du secteur." },
-      { "q": "Ai-je besoin d'une garantie pour être admissible ?", "a": "Pas nécessairement. Nos options sans garantie évaluent l'historique commercial, les revenus et la capacité de remboursement plutôt que d'exiger une mise en gage de propriété ou d'actifs." },
-      { "q": "S'agit-il d'un véritable établissement de prêt ?", "a": "Non — ceci est un site web fictif créé à des fins de portfolio de design. Fairhaven Capital Partners est une entreprise fictive et aucun prêt réel n'est proposé." },
-      { "q": "De quels documents aurai-je besoin ?", "a": "Généralement, une pièce d'identité, un résumé financier, un bref aperçu du projet ou de l'objectif, et des relevés bancaires récents. Une documentation propre au secteur peut également s'appliquer." }
+      {
+        "q": "Quelle est la différence entre les deux produits de prêt ?",
+        "a": "Les Prêts à Faible Taux et Financement de Projets sont généralement alignés sur un projet spécifique ou une dépense d'investissement et peuvent impliquer une garantie. Les Prêts Sans Garantie sont basés sur la trésorerie et la réputation, pour les emprunteurs admissibles ayant besoin de fonds sans mettre en gage d'actifs."
+      },
+      {
+        "q": "Quels secteurs financez-vous ?",
+        "a": "Nous structurons des facilités dans treize secteurs d'activité — de la santé au maritime — ainsi qu'un financement personnel pour l'éducation, les voyages, la santé, le logement et les véhicules."
+      },
+      {
+        "q": "Combien de temps prend une demande ?",
+        "a": "La réponse initiale intervient généralement sous 48 heures, avec des conditions indicatives sous environ cinq jours ouvrés, selon la taille de la facilité et la complexité du secteur."
+      },
+      {
+        "q": "Ai-je besoin d'une garantie pour être admissible ?",
+        "a": "Pas nécessairement. Nos options sans garantie évaluent l'historique commercial, les revenus et la capacité de remboursement plutôt que d'exiger une mise en gage de propriété ou d'actifs."
+      },
+      {
+        "q": "S'agit-il d'un véritable établissement de prêt ?",
+        "a": "Non — ceci est un site web fictif créé à des fins de portfolio de design. {{siteName}} est une entreprise fictive et aucun prêt réel n'est proposé."
+      },
+      {
+        "q": "De quels documents aurai-je besoin ?",
+        "a": "Généralement, une pièce d'identité, un résumé financier, un bref aperçu du projet ou de l'objectif, et des relevés bancaires récents. Une documentation propre au secteur peut également s'appliquer."
+      }
     ]
   },
   "legal": {

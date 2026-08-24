@@ -3,8 +3,7 @@
 import { useState } from "react";
 import type { Dictionary } from "@/lib/get-dictionary";
 import { Send } from "lucide-react";
-
-const TARGET_EMAIL = "hello@fairhavencapital.example";
+import { CONTACT_EMAIL } from "@/lib/site-config";
 
 export function ContactForm({ dict }: { dict: Dictionary }) {
   const [submitted, setSubmitted] = useState(false);
@@ -20,7 +19,7 @@ export function ContactForm({ dict }: { dict: Dictionary }) {
     const subject = encodeURIComponent(`${subjectField}`);
     const body = encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`);
 
-    window.location.href = `mailto:${TARGET_EMAIL}?subject=${subject}&body=${body}`;
+    window.location.href = `mailto:${CONTACT_EMAIL}?subject=${subject}&body=${body}`;
     setSubmitted(true);
   }
 
@@ -50,7 +49,7 @@ export function ContactForm({ dict }: { dict: Dictionary }) {
         <textarea required name="message" rows={6} className={inputClass} />
       </div>
 
-      <p className="text-xs text-slate-light italic">{dict.contact.disclaimer}</p>
+      {/* <p className="text-xs text-slate-light italic">{dict.contact.disclaimer}</p> */}
 
       <button
         type="submit"

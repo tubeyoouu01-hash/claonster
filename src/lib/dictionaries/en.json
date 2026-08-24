@@ -1,6 +1,5 @@
 {
   "meta": {
-    "siteName": "Fairhaven Capital Partners",
     "tagline": "Low Interest Loans & Project Financing",
     "subTagline": "Non-Collateral Loans for Business and Personal Needs"
   },
@@ -15,7 +14,7 @@
     "apply": "Apply Now"
   },
   "footer": {
-    "description": "A demonstration lending brokerage site built for portfolio purposes. Fairhaven Capital Partners is a fictional company; all names, figures, and contact details shown are placeholders.",
+    "description": "A demonstration lending brokerage site built for portfolio purposes. {{siteName}} is a fictional company; all names, figures, and contact details shown are placeholders.",
     "quickLinks": "Quick Links",
     "sectors": "Sectors We Serve",
     "getInTouch": "Get in Touch",
@@ -23,8 +22,7 @@
     "rights": "All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
-    "disclaimer": "Demo site for portfolio purposes only. Not a real financial institution. No actual loans are offered or originated through this site.",
-    "location": "Sydney, Australia (sample location)"
+    "disclaimer": "Demo site for portfolio purposes only. Not a real financial institution. No actual loans are offered or originated through this site."
   },
   "common": {
     "learnMore": "Learn More",
@@ -40,14 +38,26 @@
   "home": {
     "heroEyebrow": "Est. Sample Year 2004 — Sydney, Australia",
     "heroTitle": "Financing built for the way real projects actually move.",
-    "heroSubtitle": "Fairhaven Capital Partners arranges low interest loans and project financing across thirteen industries, with non-collateral options for founders and families who need capital without tying up assets.",
+    "heroSubtitle": "{{siteName}} arranges low interest loans and project financing across thirteen industries, with non-collateral options for founders and families who need capital without tying up assets.",
     "heroCtaPrimary": "Apply Now",
     "heroCtaSecondary": "See How It Works",
     "stats": [
-      { "value": "20+", "label": "Years of Sample Track Record" },
-      { "value": "13", "label": "Industry Sectors Financed" },
-      { "value": "A$1.2B+", "label": "Sample Facilities Arranged" },
-      { "value": "48 hrs", "label": "Average Initial Response" }
+      {
+        "value": "20+",
+        "label": "Years of Sample Track Record"
+      },
+      {
+        "value": "13",
+        "label": "Industry Sectors Financed"
+      },
+      {
+        "value": "A$1.2B+",
+        "label": "Sample Facilities Arranged"
+      },
+      {
+        "value": "48 hrs",
+        "label": "Average Initial Response"
+      }
     ],
     "productsTitle": "Two ways to fund what's next",
     "productsSubtitle": "Whether you're financing a project or covering a personal milestone, we structure facilities around your cash flow — not just your collateral.",
@@ -61,27 +71,39 @@
     "personalSubtitle": "School fees, travel, medical costs, a first home, or a new car — personal milestones deserve the same structured approach as a business facility.",
     "howTitle": "A straightforward path from enquiry to funding",
     "howSubtitle": "Four steps, transparent at every stage.",
-    "quoteText": "Fairhaven took the time to understand our drawdown schedule before proposing a structure. That's rare.",
+    "quoteText": "{{shortName}} took the time to understand our drawdown schedule before proposing a structure. That's rare.",
     "quoteAttribution": "Sample testimonial — Operations Director, Manufacturing Sector",
     "ctaTitle": "Ready to talk financing?",
     "ctaBody": "Send us a few details about your project or personal financing need and our advisory team will respond within two business days.",
     "ctaButton": "Start Your Application"
   },
   "about": {
-    "heroTitle": "About Fairhaven Capital Partners",
+    "heroTitle": "About {{siteName}}",
     "heroSubtitle": "A Sydney-based lending brokerage built around structured, sector-aware financing.",
     "storyTitle": "Our Story",
-    "storyBody1": "Fairhaven Capital Partners was founded on a simple observation: most borrowers don't fail because their business is weak, they fail because their financing doesn't match how their business actually earns and spends. We built our advisory practice around that gap.",
+    "storyBody1": "{{siteName}} was founded on a simple observation: most borrowers don't fail because their business is weak, they fail because their financing doesn't match how their business actually earns and spends. We built our advisory practice around that gap.",
     "storyBody2": "Today our team works across thirteen industry sectors, from agriculture to telecommunications, structuring low interest facilities and non-collateral lending for businesses and individuals across Australia and beyond.",
     "storyBody3": "This page describes a fictional company created for a design portfolio. Any figures, dates, or achievements listed here are illustrative and not representative of a real, operating financial institution.",
     "missionTitle": "Our Mission",
     "missionBody": "To structure financing that fits the rhythm of a borrower's cash flow, not the other way around.",
     "valuesTitle": "What guides our advisory work",
     "values": [
-      { "title": "Transparency", "body": "Clear terms, disclosed costs, and no structures our team wouldn't recommend to their own family." },
-      { "title": "Sector Fluency", "body": "Advisors who understand drawdown schedules, seasonal cash flow, and industry-specific risk before proposing terms." },
-      { "title": "Speed with Diligence", "body": "Fast initial response times without skipping the underwriting that protects both sides of the table." },
-      { "title": "Long-Term Relationships", "body": "We structure facilities we expect to revisit as your project or life stage evolves." }
+      {
+        "title": "Transparency",
+        "body": "Clear terms, disclosed costs, and no structures our team wouldn't recommend to their own family."
+      },
+      {
+        "title": "Sector Fluency",
+        "body": "Advisors who understand drawdown schedules, seasonal cash flow, and industry-specific risk before proposing terms."
+      },
+      {
+        "title": "Speed with Diligence",
+        "body": "Fast initial response times without skipping the underwriting that protects both sides of the table."
+      },
+      {
+        "title": "Long-Term Relationships",
+        "body": "We structure facilities we expect to revisit as your project or life stage evolves."
+      }
     ],
     "teamTitle": "Our Advisory Team",
     "teamBody": "Our advisors are organised by sector so that every enquiry reaches someone fluent in the relevant industry's financing patterns. Individual advisor names and direct contact details are withheld on this sample site — use the Contact page to reach the team.",
@@ -91,10 +113,22 @@
     "heroTitle": "How It Works",
     "heroSubtitle": "From first enquiry to funded facility, here's what the process looks like.",
     "steps": [
-      { "title": "Tell us about your need", "body": "Submit a short application outlining your project, sector, and the amount you're looking to finance — business or personal." },
-      { "title": "Advisory review", "body": "A sector-matched advisor reviews your submission and reaches out to discuss structure, timelines, and any documentation required." },
-      { "title": "Structuring & offer", "body": "We prepare a proposed facility — rate, term, and repayment structure — matched to your cash flow or drawdown schedule." },
-      { "title": "Funding", "body": "Once terms are accepted and documentation is finalised, funds are released according to the agreed schedule." }
+      {
+        "title": "Tell us about your need",
+        "body": "Submit a short application outlining your project, sector, and the amount you're looking to finance — business or personal."
+      },
+      {
+        "title": "Advisory review",
+        "body": "A sector-matched advisor reviews your submission and reaches out to discuss structure, timelines, and any documentation required."
+      },
+      {
+        "title": "Structuring & offer",
+        "body": "We prepare a proposed facility — rate, term, and repayment structure — matched to your cash flow or drawdown schedule."
+      },
+      {
+        "title": "Funding",
+        "body": "Once terms are accepted and documentation is finalised, funds are released according to the agreed schedule."
+      }
     ],
     "timelineTitle": "Typical timeline",
     "timelineBody": "Initial response within 48 hours, indicative terms within 5 business days, and funding timelines that vary by facility size and sector complexity.",
@@ -205,7 +239,11 @@
       "purpose": "Tell us about your project or need",
       "submit": "Submit Application"
     },
-    "loanCategoryOptions": ["Business Loan — Low Interest / Project Financing", "Business Loan — Non-Collateral", "Personal Loan"],
+    "loanCategoryOptions": [
+      "Business Loan — Low Interest / Project Financing",
+      "Business Loan — Non-Collateral",
+      "Personal Loan"
+    ],
     "disclaimer": "This is a sample form for a portfolio project. Submitting it will open your email client with a pre-filled message; no data is sent to a live server.",
     "successNote": "Your email client should now be open with your application details pre-filled."
   },
@@ -214,11 +252,8 @@
     "heroSubtitle": "Questions before you apply? Reach the sample advisory team below.",
     "detailsTitle": "Contact Details",
     "addressLabel": "Office",
-    "address": "Level 12, 1 Sample Street, Sydney NSW 2000, Australia (placeholder address)",
     "emailLabel": "Email",
-    "email": "hello@fairhavencapital.example",
     "phoneLabel": "Phone",
-    "phone": "+61 2 5550 1234 (placeholder number)",
     "hoursLabel": "Hours",
     "hours": "Monday–Friday, 9:00am–5:30pm AEST",
     "formTitle": "Send a Message",
@@ -236,12 +271,30 @@
     "heroTitle": "Frequently Asked Questions",
     "heroSubtitle": "Answers to common questions about our financing process.",
     "items": [
-      { "q": "What's the difference between the two loan products?", "a": "Low Interest Loans & Project Financing are typically matched to a specific project or capital expenditure and may involve security. Non-Collateral Loans are cash-flow and character-based, for qualifying borrowers who need funding without pledging assets." },
-      { "q": "Which sectors do you finance?", "a": "We structure facilities across thirteen business sectors — from healthcare to maritime — plus personal financing for education, travel, medical, home, and vehicle needs." },
-      { "q": "How long does an application take?", "a": "Initial response is typically within 48 hours, with indicative terms following within about five business days, depending on facility size and sector complexity." },
-      { "q": "Do I need collateral to qualify?", "a": "Not necessarily. Our non-collateral options assess trading history, income, and repayment capacity rather than requiring a property or asset pledge." },
-      { "q": "Is this a real lending institution?", "a": "No — this is a sample website built for design portfolio purposes. Fairhaven Capital Partners is a fictional company and no real loans are offered." },
-      { "q": "What documents will I need?", "a": "Typically proof of identity, a financial summary, a short project or purpose overview, and recent bank statements. Sector-specific documentation may also apply." }
+      {
+        "q": "What's the difference between the two loan products?",
+        "a": "Low Interest Loans & Project Financing are typically matched to a specific project or capital expenditure and may involve security. Non-Collateral Loans are cash-flow and character-based, for qualifying borrowers who need funding without pledging assets."
+      },
+      {
+        "q": "Which sectors do you finance?",
+        "a": "We structure facilities across thirteen business sectors — from healthcare to maritime — plus personal financing for education, travel, medical, home, and vehicle needs."
+      },
+      {
+        "q": "How long does an application take?",
+        "a": "Initial response is typically within 48 hours, with indicative terms following within about five business days, depending on facility size and sector complexity."
+      },
+      {
+        "q": "Do I need collateral to qualify?",
+        "a": "Not necessarily. Our non-collateral options assess trading history, income, and repayment capacity rather than requiring a property or asset pledge."
+      },
+      {
+        "q": "Is this a real lending institution?",
+        "a": "No — this is a sample website built for design portfolio purposes. {{siteName}} is a fictional company and no real loans are offered."
+      },
+      {
+        "q": "What documents will I need?",
+        "a": "Typically proof of identity, a financial summary, a short project or purpose overview, and recent bank statements. Sector-specific documentation may also apply."
+      }
     ]
   },
   "legal": {

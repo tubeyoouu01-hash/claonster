@@ -3,32 +3,48 @@ import { MapPin, Mail, Phone } from "lucide-react";
 import type { Locale } from "@/lib/locales";
 import type { Dictionary } from "@/lib/get-dictionary";
 import { businessSectors } from "@/lib/sectors";
-import { socialLinks } from "@/lib/social-links";
 import { YoutubeIcon, FacebookIcon, LinkedinIcon, XIcon, TikTokIcon } from "./SocialIcons";
+import { LogoMark } from "./LogoMark";
+import {
+  SITE_NAME,
+  SITE_SHORT_NAME,
+  SITE_SUFFIX,
+  CONTACT_EMAIL,
+  CONTACT_PHONE_DISPLAY,
+  CONTACT_PHONE_HREF,
+  OFFICE_FULL_ADDRESS,
+  SOCIAL_LINKS,
+  type SocialPlatform,
+} from "@/lib/site-config";
 
-const iconMap = {
-  Youtube: YoutubeIcon,
-  Facebook: FacebookIcon,
-  Linkedin: LinkedinIcon,
-  Twitter: XIcon,
-  TikTok: TikTokIcon,
+const socialIconMap: Record<SocialPlatform, typeof YoutubeIcon> = {
+  youtube: YoutubeIcon,
+  facebook: FacebookIcon,
+  linkedin: LinkedinIcon,
+  x: XIcon,
+  tiktok: TikTokIcon,
 };
 
 export function Footer({ locale, dict }: { locale: Locale; dict: Dictionary }) {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="bg-ink text-paper/70">
+    <footer className="bg-ink-deep text-paper/70">
       <div className="mx-auto max-w-7xl px-6 py-16 grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-4">
         <div>
-          <span className="font-display text-xl text-paper">Fairhaven</span>
-          <span className="block text-[0.6rem] tracking-[0.25em] uppercase text-gold mt-1 mb-4">
-            Capital Partners
-          </span>
+          <div className="flex items-center gap-3 mb-4">
+            <LogoMark className="h-9 w-9" />
+            <div className="flex flex-col leading-none">
+              <span className="font-display text-xl text-paper">{SITE_SHORT_NAME}</span>
+              <span className="text-[0.6rem] tracking-[0.25em] uppercase text-gold mt-1">
+                {SITE_SUFFIX}
+              </span>
+            </div>
+          </div>
           <p className="text-sm leading-relaxed">{dict.footer.description}</p>
           <div className="flex items-center gap-4 mt-5">
-            {socialLinks.map((s) => {
-              const Icon = iconMap[s.icon];
+            {SOCIAL_LINKS.map((s) => {
+              const Icon = socialIconMap[s.platform];
               return (
                 <a
                   key={s.name}
@@ -73,15 +89,15 @@ export function Footer({ locale, dict }: { locale: Locale; dict: Dictionary }) {
           <ul className="space-y-3 text-sm">
             <li className="flex items-start gap-2.5">
               <MapPin className="h-4 w-4 mt-0.5 shrink-0 text-gold" strokeWidth={1.75} />
-              <span>{dict.contact.address}</span>
+              <span>{OFFICE_FULL_ADDRESS}</span>
             </li>
             <li className="flex items-center gap-2.5">
               <Mail className="h-4 w-4 shrink-0 text-gold" strokeWidth={1.75} />
-              <span>{dict.contact.email}</span>
+              <a href={`mailto:${CONTACT_EMAIL}`} className="hover:text-gold transition-colors">{CONTACT_EMAIL}</a>
             </li>
             <li className="flex items-center gap-2.5">
               <Phone className="h-4 w-4 shrink-0 text-gold" strokeWidth={1.75} />
-              <span>{dict.contact.phone}</span>
+              <a href={`tel:${CONTACT_PHONE_HREF}`} className="hover:text-gold transition-colors">{CONTACT_PHONE_DISPLAY}</a>
             </li>
           </ul>
         </div>
@@ -90,7 +106,7 @@ export function Footer({ locale, dict }: { locale: Locale; dict: Dictionary }) {
       <div className="brass-rule" />
 
       <div className="mx-auto max-w-7xl px-6 py-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between text-xs text-paper/50">
-        <p>© {year} Fairhaven Capital Partners. {dict.footer.rights}</p>
+        <p>© {year} {SITE_NAME}. {dict.footer.rights}</p>
         <div className="flex gap-5">
           <Link href={`/${locale}/privacy`} className="hover:text-gold transition-colors">{dict.footer.privacy}</Link>
           <Link href={`/${locale}/terms`} className="hover:text-gold transition-colors">{dict.footer.terms}</Link>

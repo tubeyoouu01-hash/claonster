@@ -4,6 +4,12 @@ import { isLocale, type Locale } from "@/lib/locales";
 import { notFound } from "next/navigation";
 import { PageHero } from "@/components/PageHero";
 import { ContactForm } from "@/components/ContactForm";
+import {
+  CONTACT_EMAIL,
+  CONTACT_PHONE_DISPLAY,
+  CONTACT_PHONE_HREF,
+  OFFICE_FULL_ADDRESS,
+} from "@/lib/site-config";
 
 export default async function ContactPage({
   params,
@@ -16,10 +22,10 @@ export default async function ContactPage({
   const c = dict.contact;
 
   const details = [
-    { icon: MapPin, label: c.addressLabel, value: c.address },
-    { icon: Mail, label: c.emailLabel, value: c.email },
-    { icon: Phone, label: c.phoneLabel, value: c.phone },
-    { icon: Clock, label: c.hoursLabel, value: c.hours },
+    { icon: MapPin, label: c.addressLabel, value: OFFICE_FULL_ADDRESS, href: undefined },
+    { icon: Mail, label: c.emailLabel, value: CONTACT_EMAIL, href: `mailto:${CONTACT_EMAIL}` },
+    { icon: Phone, label: c.phoneLabel, value: CONTACT_PHONE_DISPLAY, href: `tel:${CONTACT_PHONE_HREF}` },
+    { icon: Clock, label: c.hoursLabel, value: c.hours, href: undefined },
   ];
 
   return (
@@ -37,7 +43,11 @@ export default async function ContactPage({
                 </span>
                 <div>
                   <p className="text-xs uppercase tracking-wide text-slate-light">{d.label}</p>
-                  <p className="text-ink">{d.value}</p>
+                  {d.href ? (
+                    <a href={d.href} className="text-ink hover:text-gold transition-colors">{d.value}</a>
+                  ) : (
+                    <p className="text-ink">{d.value}</p>
+                  )}
                 </div>
               </li>
             ))}
