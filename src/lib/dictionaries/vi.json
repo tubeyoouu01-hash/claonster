@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "tagline": "Vay Lãi Suất Thấp & Tài Trợ Dự Án",
+    "subTagline": "Vay Không Thế Chấp Cho Doanh Nghiệp và Cá Nhân"
+  },
+  "nav": {
+    "home": "Trang Chủ",
+    "about": "Về Chúng Tôi",
+    "howItWorks": "Cách Thức Hoạt Động",
+    "businessLoans": "Vay Doanh Nghiệp",
+    "personalLoans": "Vay Cá Nhân",
+    "faq": "Câu Hỏi Thường Gặp",
+    "contact": "Liên Hệ",
+    "apply": "Đăng Ký Ngay"
+  },
+  "footer": {
+    "description": "Đây là trang web demo cho một công ty môi giới cho vay, được xây dựng cho mục đích hồ sơ năng lực. {{siteName}} là một công ty hư cấu; mọi tên gọi, số liệu và thông tin liên hệ hiển thị đều chỉ là ví dụ minh họa.",
+    "quickLinks": "Liên Kết Nhanh",
+    "sectors": "Các Ngành Chúng Tôi Phục Vụ",
+    "getInTouch": "Liên Hệ Với Chúng Tôi",
+    "follow": "Theo Dõi Chúng Tôi",
+    "rights": "Đã đăng ký bản quyền.",
+    "privacy": "Chính Sách Bảo Mật",
+    "terms": "Điều Khoản Dịch Vụ",
+    "disclaimer": "Đây chỉ là trang web demo cho mục đích hồ sơ năng lực. Không phải là một tổ chức tài chính thực sự. Không có khoản vay thực tế nào được cung cấp hoặc phát hành qua trang web này."
+  },
+  "common": {
+    "learnMore": "Tìm Hiểu Thêm",
+    "applyNow": "Đăng Ký Ngay",
+    "getStarted": "Bắt Đầu",
+    "contactUs": "Liên Hệ Với Chúng Tôi",
+    "businessLoansLabel": "Vay Doanh Nghiệp",
+    "personalLoansLabel": "Vay Cá Nhân",
+    "readMore": "Đọc Thêm",
+    "viewAll": "Xem Tất Cả Các Ngành",
+    "sampleNotice": "Nội dung ví dụ — chỉ dùng để trình bày trong hồ sơ năng lực."
+  },
+  "home": {
+    "heroEyebrow": "Thành lập (năm ví dụ) 2004 — Sydney, Úc",
+    "heroTitle": "Giải pháp tài chính được thiết kế phù hợp với cách các dự án thực tế vận hành.",
+    "heroSubtitle": "{{siteName}} thu xếp các khoản vay lãi suất thấp và tài trợ dự án trên mười ba ngành nghề, với các lựa chọn không thế chấp dành cho những nhà sáng lập và gia đình cần vốn mà không muốn ràng buộc tài sản.",
+    "heroCtaPrimary": "Đăng Ký Ngay",
+    "heroCtaSecondary": "Xem Cách Thức Hoạt Động",
+    "stats": [
+      { "value": "20+", "label": "Năm Kinh Nghiệm (ví dụ)" },
+      { "value": "13", "label": "Ngành Được Tài Trợ" },
+      { "value": "A$1.2 tỷ+", "label": "Hạn Mức Đã Thu Xếp (ví dụ)" },
+      { "value": "48 giờ", "label": "Thời Gian Phản Hồi Ban Đầu Trung Bình" }
+    ],
+    "productsTitle": "Hai cách để tài trợ cho bước tiếp theo",
+    "productsSubtitle": "Dù bạn đang tài trợ cho một dự án hay đáp ứng một cột mốc cá nhân, chúng tôi xây dựng hạn mức dựa trên dòng tiền của bạn — không chỉ dựa trên tài sản thế chấp.",
+    "product1Title": "Vay Lãi Suất Thấp & Tài Trợ Dự Án",
+    "product1Body": "Các hạn mức được thiết kế cho dự án vốn, mở rộng kinh doanh và vốn lưu động, với mức giá cạnh tranh so với lãi suất chuẩn và phù hợp với lịch giải ngân của dự án bạn.",
+    "product2Title": "Vay Không Thế Chấp",
+    "product2Body": "Cho vay dựa trên dòng tiền và uy tín tín dụng dành cho doanh nghiệp và cá nhân đủ điều kiện cần vốn mà không phải thế chấp bất động sản, thiết bị hoặc hàng tồn kho.",
+    "sectorsTitle": "Các ngành chúng tôi tài trợ",
+    "sectorsSubtitle": "Từ vận tải biển đến sàn sản xuất, đội ngũ tư vấn của chúng tôi thiết kế phương án tài trợ dựa trên cách mỗi ngành thực sự vận hành.",
+    "personalTitle": "Tài trợ cá nhân, được chăm sóc như nhau",
+    "personalSubtitle": "Học phí, du lịch, chi phí y tế, ngôi nhà đầu tiên, hay một chiếc xe mới — những cột mốc cá nhân xứng đáng nhận được cách tiếp cận bài bản như một hạn mức doanh nghiệp.",
+    "howTitle": "Một lộ trình rõ ràng từ khi liên hệ đến khi được cấp vốn",
+    "howSubtitle": "Bốn bước, minh bạch ở mọi giai đoạn.",
+    "quoteText": "{{shortName}} đã dành thời gian để hiểu lịch giải ngân của chúng tôi trước khi đề xuất một cấu trúc. Điều đó thật hiếm có.",
+    "quoteAttribution": "Nhận xét ví dụ — Giám Đốc Vận Hành, Ngành Sản Xuất",
+    "ctaTitle": "Sẵn sàng trao đổi về tài trợ vốn?",
+    "ctaBody": "Gửi cho chúng tôi vài thông tin về dự án hoặc nhu cầu tài trợ cá nhân của bạn, đội ngũ tư vấn sẽ phản hồi trong vòng hai ngày làm việc.",
+    "ctaButton": "Bắt Đầu Đăng Ký"
+  },
+  "about": {
+    "heroTitle": "Về {{siteName}}",
+    "heroSubtitle": "Một công ty môi giới cho vay có trụ sở tại Sydney, được xây dựng xoay quanh giải pháp tài chính bài bản, am hiểu từng ngành nghề.",
+    "storyTitle": "Câu Chuyện Của Chúng Tôi",
+    "storyBody1": "{{siteName}} được thành lập dựa trên một nhận định đơn giản: hầu hết người vay thất bại không phải vì doanh nghiệp của họ yếu kém, mà vì phương án tài trợ không phù hợp với cách doanh nghiệp đó thực sự thu và chi. Chúng tôi xây dựng hoạt động tư vấn của mình xoay quanh khoảng trống đó.",
+    "storyBody2": "Ngày nay, đội ngũ của chúng tôi hoạt động trên mười ba ngành công nghiệp, từ nông nghiệp đến viễn thông, thiết kế các hạn mức lãi suất thấp và cho vay không thế chấp cho doanh nghiệp và cá nhân tại Úc và xa hơn nữa.",
+    "storyBody3": "Trang này mô tả một công ty hư cấu được tạo ra cho một hồ sơ năng lực thiết kế. Mọi số liệu, ngày tháng hoặc thành tựu được liệt kê ở đây chỉ mang tính minh họa và không đại diện cho một tổ chức tài chính thực sự đang hoạt động.",
+    "missionTitle": "Sứ Mệnh Của Chúng Tôi",
+    "missionBody": "Thiết kế phương án tài trợ phù hợp với nhịp độ dòng tiền của người vay, chứ không phải ngược lại.",
+    "valuesTitle": "Những giá trị định hướng công việc tư vấn của chúng tôi",
+    "values": [
+      { "title": "Minh Bạch", "body": "Điều khoản rõ ràng, chi phí được công khai, và không có cấu trúc nào mà đội ngũ của chúng tôi sẽ không giới thiệu cho chính gia đình mình." },
+      { "title": "Am Hiểu Ngành Nghề", "body": "Các chuyên viên tư vấn hiểu rõ lịch giải ngân, dòng tiền theo mùa vụ và rủi ro đặc thù của từng ngành trước khi đề xuất điều khoản." },
+      { "title": "Tốc Độ Đi Cùng Sự Cẩn Trọng", "body": "Thời gian phản hồi ban đầu nhanh chóng mà không bỏ qua khâu thẩm định bảo vệ cả hai bên." },
+      { "title": "Quan Hệ Lâu Dài", "body": "Chúng tôi thiết kế các hạn mức mà chúng tôi kỳ vọng sẽ xem xét lại khi dự án hoặc giai đoạn cuộc sống của bạn thay đổi." }
+    ],
+    "teamTitle": "Đội Ngũ Tư Vấn Của Chúng Tôi",
+    "teamBody": "Các chuyên viên tư vấn của chúng tôi được tổ chức theo ngành để mỗi yêu cầu đều được xử lý bởi người am hiểu mô hình tài trợ của ngành đó. Tên và thông tin liên hệ trực tiếp của từng chuyên viên tư vấn không được hiển thị trên trang web ví dụ này — vui lòng dùng trang Liên Hệ để kết nối với đội ngũ.",
+    "licenseNote": "Ghi chú ví dụ: một công ty môi giới cho vay thực sự hoạt động tại Úc sẽ hiển thị số Giấy Phép Tín Dụng Úc (ACL) của mình tại đây."
+  },
+  "howItWorks": {
+    "heroTitle": "Cách Thức Hoạt Động",
+    "heroSubtitle": "Từ lần liên hệ đầu tiên đến khi hạn mức được giải ngân, đây là quy trình.",
+    "steps": [
+      { "title": "Cho chúng tôi biết nhu cầu của bạn", "body": "Gửi một đơn đăng ký ngắn gọn mô tả dự án, ngành nghề và số tiền bạn muốn tài trợ — cho doanh nghiệp hoặc cá nhân." },
+      { "title": "Xem xét từ chuyên viên tư vấn", "body": "Một chuyên viên tư vấn phù hợp với ngành của bạn sẽ xem xét đơn đăng ký và liên hệ để trao đổi về cấu trúc, thời gian và các giấy tờ cần thiết." },
+      { "title": "Thiết kế phương án & đề xuất", "body": "Chúng tôi chuẩn bị một đề xuất hạn mức — lãi suất, thời hạn và cấu trúc trả nợ — phù hợp với dòng tiền hoặc lịch giải ngân của bạn." },
+      { "title": "Giải ngân", "body": "Sau khi điều khoản được chấp nhận và hồ sơ hoàn tất, vốn sẽ được giải ngân theo lịch trình đã thống nhất." }
+    ],
+    "timelineTitle": "Thời gian điển hình",
+    "timelineBody": "Phản hồi ban đầu trong vòng 48 giờ, điều khoản tham khảo trong khoảng 5 ngày làm việc, và thời gian giải ngân sẽ khác nhau tùy theo quy mô hạn mức và mức độ phức tạp của ngành.",
+    "documentsTitle": "Những giấy tờ bạn thường cần",
+    "documents": [
+      "Giấy tờ tùy thân",
+      "Tóm tắt tài chính doanh nghiệp hoặc cá nhân",
+      "Tổng quan về dự án hoặc mục đích sử dụng vốn",
+      "Sao kê ngân hàng (giai đoạn gần đây)",
+      "Giấy tờ đặc thù theo ngành (nếu có)"
+    ],
+    "faqNote": "Còn thắc mắc về quy trình? Hãy xem trang Câu Hỏi Thường Gặp của chúng tôi.",
+    "ctaTitle": "Sẵn sàng cho bước đầu tiên?",
+    "ctaBody": "Việc hoàn tất đơn đăng ký thường mất dưới mười phút."
+  },
+  "businessLoans": {
+    "heroTitle": "Vay Doanh Nghiệp",
+    "heroSubtitle": "Vay lãi suất thấp, tài trợ dự án và vay không thế chấp được thiết kế cho mười ba ngành nghề.",
+    "introTitle": "Giải pháp tài chính thấu hiểu ngành nghề của bạn",
+    "introBody": "Mỗi ngành nghề vận hành dòng vốn theo một cách khác nhau. Một hãng tàu giải ngân theo chu kỳ vận chuyển; một tập đoàn bệnh viện tài trợ thiết bị dựa trên hợp đồng dịch vụ dài hạn. Đội ngũ tư vấn của chúng tôi thiết kế hạn mức dựa trên cách ngành của bạn thực sự tạo ra và sử dụng tiền mặt.",
+    "product1Title": "Vay Lãi Suất Thấp & Tài Trợ Dự Án",
+    "product1Body": "Dành cho chi tiêu vốn, mở rộng kinh doanh và các dự án có cấu trúc. Mức giá cạnh tranh so với lãi suất chuẩn, thời hạn phù hợp với lịch giải ngân hoặc bàn giao của bạn, và cấu trúc trả nợ theo đường cong doanh thu thay vì lịch trình cố định.",
+    "product1Points": [
+      "Mức giá cạnh tranh gắn với lãi suất chuẩn",
+      "Lịch giải ngân phù hợp với các mốc quan trọng của dự án",
+      "Thời hạn từ tài trợ bắc cầu ngắn hạn đến hạn mức nhiều năm",
+      "Áp dụng cho cả mười ba ngành được liệt kê bên dưới"
+    ],
+    "product2Title": "Vay Không Thế Chấp",
+    "product2Body": "Cho vay dựa trên dòng tiền và uy tín tín dụng dành cho doanh nghiệp đủ điều kiện cần vốn mà không phải thế chấp bất động sản, thiết bị hoặc hàng tồn kho.",
+    "product2Points": [
+      "Không yêu cầu thế chấp bất động sản hoặc tài sản đối với hạn mức đủ điều kiện",
+      "Đánh giá dựa trên lịch sử kinh doanh và dòng tiền",
+      "Điều khoản tham khảo nhanh hơn so với vay có tài sản đảm bảo",
+      "Phù hợp cho vốn lưu động, hàng tồn kho và nhu cầu chu kỳ ngắn"
+    ],
+    "sectorsTitle": "Các ngành chúng tôi tài trợ",
+    "sectorsSubtitle": "Chọn một ngành để xem cách chúng tôi thường thiết kế phương án tài trợ cho ngành đó.",
+    "sectorNames": {
+      "healthcare": "Y Tế",
+      "finance": "Tài Chính",
+      "energy": "Năng Lượng",
+      "manufacturing": "Sản Xuất",
+      "consumerGoods": "Hàng Tiêu Dùng",
+      "telecommunications": "Viễn Thông",
+      "utilities": "Tiện Ích Công Cộng",
+      "agriculture": "Nông Nghiệp",
+      "transportation": "Vận Tải",
+      "importExport": "Xuất Nhập Khẩu",
+      "maritime": "Hàng Hải",
+      "construction": "Xây Dựng",
+      "realEstate": "Bất Động Sản"
+    },
+    "sectorDescriptions": {
+      "healthcare": "Dược phẩm, công nghệ sinh học, bệnh viện và thiết bị y tế — tài trợ cho thiết bị, mở rộng và vốn lưu động.",
+      "finance": "Ngân hàng, bảo hiểm, quản lý đầu tư và fintech — hạn mức được thiết kế cho nhu cầu vốn chịu quản lý.",
+      "energy": "Dầu khí, năng lượng tái tạo và phát triển năng lượng xanh — tài trợ dự án phù hợp với các mốc phát triển.",
+      "manufacturing": "Ô tô, hàng không vũ trụ, hàng công nghiệp và điện tử tiêu dùng — tài trợ thiết bị và mở rộng.",
+      "consumerGoods": "Thực phẩm, đồ uống, may mặc và đồ gia dụng — tài trợ vốn lưu động và hàng tồn kho.",
+      "telecommunications": "Nhà cung cấp dịch vụ internet, mạng không dây và hạ tầng viễn thông — tài trợ dự án hạ tầng.",
+      "utilities": "Dịch vụ phân phối điện, nước và khí đốt — tài trợ hạ tầng và bảo trì dài hạn.",
+      "agriculture": "Trồng trọt, chăn nuôi, lâm nghiệp và nông sản — tài trợ theo mùa vụ và thiết bị phù hợp với chu kỳ thu hoạch.",
+      "transportation": "Logistics, vận tải biển, hàng không và giao thông công cộng — tài trợ đội xe và hạ tầng.",
+      "importExport": "Tài trợ thương mại cho hoạt động xuất nhập khẩu — hạn mức phù hợp với chu kỳ vận chuyển và thông quan.",
+      "maritime": "Hãng tàu, cảng biển và logistics hàng hải — tài trợ tàu, hạ tầng cảng và chu kỳ vận chuyển.",
+      "construction": "Xây dựng thương mại và nhà ở — tài trợ dự án phù hợp với các mốc thi công.",
+      "realEstate": "Tài trợ phát triển và mua lại bất động sản thương mại và nhà ở."
+    },
+    "ctaTitle": "Bạn đang tài trợ cho một dự án trong các ngành trên?",
+    "ctaBody": "Hãy cho chúng tôi biết, một chuyên viên tư vấn phù hợp với ngành của bạn sẽ liên hệ lại."
+  },
+  "personalLoans": {
+    "heroTitle": "Vay Cá Nhân",
+    "heroSubtitle": "Giải pháp tài chính lãi suất thấp, bài bản cho những cột mốc quan trọng — với các lựa chọn không thế chấp.",
+    "introTitle": "Tài trợ cá nhân, được thiết kế đúng cách",
+    "introBody": "Học phí, ngôi nhà đầu tiên, một thủ thuật y tế, hay một chiếc xe mới — mỗi nhu cầu có nhịp độ trả nợ khác nhau. Chúng tôi thiết kế hạn mức cá nhân theo cách tương tự như hạn mức doanh nghiệp: dựa trên cách bạn thực sự thu và chi.",
+    "sectorsTitle": "Những gì chúng tôi tài trợ",
+    "sectorNames": {
+      "school": "Học Phí",
+      "travel": "Du Lịch",
+      "medical": "Y Tế",
+      "building": "Nhà Ở (Thế Chấp)",
+      "car": "Vay Mua Xe"
+    },
+    "sectorDescriptions": {
+      "school": "Học phí, chi phí nội trú và các khoản liên quan đến giáo dục, được thiết kế theo lịch học kỳ.",
+      "travel": "Vé máy bay, chỗ ở và các gói du lịch, được tài trợ với điều khoản trả nợ cố định hoặc linh hoạt.",
+      "medical": "Các thủ thuật y tế tự chọn và cần thiết, được tài trợ với phản hồi tham khảo nhanh chóng.",
+      "building": "Vay thế chấp và vay xây dựng cho việc mua, xây dựng hoặc cải tạo nhà.",
+      "car": "Tài trợ xe mới và xe đã qua sử dụng, với thời hạn phù hợp với tuổi thọ sử dụng dự kiến của xe."
+    },
+    "nonCollateralTitle": "Vay cá nhân không thế chấp",
+    "nonCollateralBody": "Những người đăng ký đủ điều kiện có thể được tài trợ cá nhân dựa trên thu nhập và lịch sử trả nợ, mà không cần thế chấp bất động sản hoặc tài sản khác.",
+    "ctaTitle": "Bạn đang tài trợ cho một cột mốc cá nhân?",
+    "ctaBody": "Hãy cho chúng tôi biết bạn đang tài trợ cho việc gì, chúng tôi sẽ phản hồi với điều khoản tham khảo."
+  },
+  "apply": {
+    "heroTitle": "Đăng Ký Ngay",
+    "heroSubtitle": "Hãy cho chúng tôi biết nhu cầu tài trợ của bạn. Biểu mẫu ví dụ này sẽ soạn một email gửi đến hộp thư tư vấn ví dụ của chúng tôi — không có đơn đăng ký thực tế nào được gửi đi.",
+    "formTitle": "Chi Tiết Đăng Ký",
+    "labels": {
+      "fullName": "Họ Và Tên",
+      "email": "Địa Chỉ Email",
+      "phone": "Số Điện Thoại",
+      "loanCategory": "Loại Khoản Vay",
+      "sector": "Ngành Nghề",
+      "amount": "Số Tiền Yêu Cầu (Ước Tính)",
+      "purpose": "Cho chúng tôi biết về dự án hoặc nhu cầu của bạn",
+      "submit": "Gửi Đơn Đăng Ký"
+    },
+    "loanCategoryOptions": ["Vay Doanh Nghiệp — Lãi Suất Thấp / Tài Trợ Dự Án", "Vay Doanh Nghiệp — Không Thế Chấp", "Vay Cá Nhân"],
+    "disclaimer": "Đây là biểu mẫu ví dụ cho một dự án hồ sơ năng lực. Việc gửi biểu mẫu sẽ mở ứng dụng email của bạn với nội dung được điền sẵn; không có dữ liệu nào được gửi đến máy chủ thực tế.",
+    "successNote": "Ứng dụng email của bạn giờ đây sẽ mở với thông tin đăng ký đã được điền sẵn."
+  },
+  "contact": {
+    "heroTitle": "Liên Hệ Với Chúng Tôi",
+    "heroSubtitle": "Có câu hỏi trước khi đăng ký? Hãy liên hệ đội ngũ tư vấn ví dụ bên dưới.",
+    "detailsTitle": "Thông Tin Liên Hệ",
+    "addressLabel": "Văn Phòng",
+    "emailLabel": "Email",
+    "phoneLabel": "Điện Thoại",
+    "hoursLabel": "Giờ Làm Việc",
+    "hours": "Thứ Hai–Thứ Sáu, 9:00–17:30 (Giờ AEST)",
+    "formTitle": "Gửi Tin Nhắn",
+    "labels": {
+      "fullName": "Họ Và Tên",
+      "email": "Địa Chỉ Email",
+      "subject": "Chủ Đề",
+      "message": "Nội Dung Tin Nhắn",
+      "submit": "Gửi Tin Nhắn"
+    },
+    "disclaimer": "Đây là biểu mẫu ví dụ cho một dự án hồ sơ năng lực. Việc gửi biểu mẫu sẽ mở ứng dụng email của bạn với nội dung được điền sẵn; không có dữ liệu nào được gửi đến máy chủ thực tế.",
+    "mapNote": "Vị trí bản đồ giữ chỗ — chỉ là địa điểm ví dụ."
+  },
+  "faq": {
+    "heroTitle": "Câu Hỏi Thường Gặp",
+    "heroSubtitle": "Giải đáp các câu hỏi thường gặp về quy trình tài trợ của chúng tôi.",
+    "items": [
+      { "q": "Sự khác biệt giữa hai sản phẩm vay là gì?", "a": "Vay Lãi Suất Thấp & Tài Trợ Dự Án thường phù hợp với một dự án cụ thể hoặc khoản chi vốn, và có thể yêu cầu tài sản đảm bảo. Vay Không Thế Chấp dựa trên dòng tiền và uy tín tín dụng, dành cho người vay đủ điều kiện cần vốn mà không phải thế chấp tài sản." },
+      { "q": "Các bạn tài trợ cho những ngành nào?", "a": "Chúng tôi thiết kế hạn mức cho mười ba ngành doanh nghiệp — từ y tế đến hàng hải — cùng với tài trợ cá nhân cho giáo dục, du lịch, y tế, nhà ở và phương tiện đi lại." },
+      { "q": "Đơn đăng ký mất bao lâu để xử lý?", "a": "Phản hồi ban đầu thường trong vòng 48 giờ, với điều khoản tham khảo trong khoảng năm ngày làm việc, tùy thuộc vào quy mô hạn mức và mức độ phức tạp của ngành." },
+      { "q": "Tôi có cần tài sản thế chấp để đủ điều kiện không?", "a": "Không nhất thiết. Các lựa chọn không thế chấp của chúng tôi đánh giá dựa trên lịch sử kinh doanh, thu nhập và khả năng trả nợ thay vì yêu cầu thế chấp bất động sản hoặc tài sản." },
+      { "q": "Đây có phải là một tổ chức cho vay thực sự không?", "a": "Không — đây là trang web ví dụ được xây dựng cho mục đích hồ sơ năng lực thiết kế. {{siteName}} là một công ty hư cấu và không có khoản vay thực tế nào được cung cấp." },
+      { "q": "Tôi cần chuẩn bị những giấy tờ gì?", "a": "Thông thường là giấy tờ tùy thân, tóm tắt tài chính, mô tả ngắn gọn về dự án hoặc mục đích sử dụng vốn, và sao kê ngân hàng gần đây. Giấy tờ đặc thù theo ngành cũng có thể được yêu cầu." }
+    ]
+  },
+  "legal": {
+    "privacyTitle": "Chính Sách Bảo Mật",
+    "privacyBody": "Đây là văn bản pháp lý giữ chỗ dành cho trang web trình bày hồ sơ năng lực. Một công ty môi giới cho vay thực sự sẽ công bố tại đây một chính sách bảo mật đầy đủ, mô tả dữ liệu nào được thu thập, cách sử dụng dữ liệu đó, và cách người đăng ký có thể thực hiện quyền đối với dữ liệu của mình theo luật hiện hành.",
+    "termsTitle": "Điều Khoản Dịch Vụ",
+    "termsBody": "Đây là văn bản pháp lý giữ chỗ dành cho trang web trình bày hồ sơ năng lực. Một công ty môi giới cho vay thực sự sẽ công bố tại đây điều khoản dịch vụ đầy đủ, bao gồm tiêu chí đủ điều kiện, lãi suất và phí áp dụng, cùng quy trình giải quyết tranh chấp."
+  }
+}
