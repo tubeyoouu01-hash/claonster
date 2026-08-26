@@ -14,7 +14,7 @@
     "apply": "Apply Now"
   },
   "footer": {
-    "description": "{{siteName}} structures financing for businesses and individuals across thirteen industries, pairing sector-specific expertise with clear, transparent terms.",
+    "description": "A demonstration lending brokerage site built for portfolio purposes. {{siteName}} is a fictional company; all names, figures, and contact details shown are placeholders.",
     "quickLinks": "Quick Links",
     "sectors": "Sectors We Serve",
     "getInTouch": "Get in Touch",
@@ -22,7 +22,7 @@
     "rights": "All rights reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
-    "disclaimer": "Finance is subject to individual assessment, eligibility criteria, and lender approval. Rates, terms, and fees vary by applicant and facility type."
+    "disclaimer": "Demo site for portfolio purposes only. Not a real financial institution. No actual loans are offered or originated through this site."
   },
   "common": {
     "learnMore": "Learn More",
@@ -32,10 +32,11 @@
     "businessLoansLabel": "Business Loans",
     "personalLoansLabel": "Personal Loans",
     "readMore": "Read More",
-    "viewAll": "View All Sectors"
+    "viewAll": "View All Sectors",
+    "sampleNotice": "Sample content — for portfolio demonstration only."
   },
   "home": {
-    "heroEyebrow": "Est. 2004 — Sydney, Australia",
+    "heroEyebrow": "Est. Sample Year 2004 — Sydney, Australia",
     "heroTitle": "Financing built for the way real projects actually move.",
     "heroSubtitle": "{{siteName}} arranges low interest loans and project financing across thirteen industries, with non-collateral options for founders and families who need capital without tying up assets.",
     "heroCtaPrimary": "Apply Now",
@@ -43,7 +44,7 @@
     "stats": [
       {
         "value": "20+",
-        "label": "Years in Operation"
+        "label": "Years of Sample Track Record"
       },
       {
         "value": "13",
@@ -51,7 +52,7 @@
       },
       {
         "value": "A$1.2B+",
-        "label": "Facilities Arranged"
+        "label": "Sample Facilities Arranged"
       },
       {
         "value": "48 hrs",
@@ -71,7 +72,7 @@
     "howTitle": "A straightforward path from enquiry to funding",
     "howSubtitle": "Four steps, transparent at every stage.",
     "quoteText": "{{shortName}} took the time to understand our drawdown schedule before proposing a structure. That's rare.",
-    "quoteAttribution": "Operations Director, Manufacturing Sector",
+    "quoteAttribution": "Sample testimonial — Operations Director, Manufacturing Sector",
     "ctaTitle": "Ready to talk financing?",
     "ctaBody": "Send us a few details about your project or personal financing need and our advisory team will respond within two business days.",
     "ctaButton": "Start Your Application"
@@ -82,7 +83,7 @@
     "storyTitle": "Our Story",
     "storyBody1": "{{siteName}} was founded on a simple observation: most borrowers don't fail because their business is weak, they fail because their financing doesn't match how their business actually earns and spends. We built our advisory practice around that gap.",
     "storyBody2": "Today our team works across thirteen industry sectors, from agriculture to telecommunications, structuring low interest facilities and non-collateral lending for businesses and individuals across Australia and beyond.",
-    "storyBody3": "That focus has shaped every facility we've structured since — treating each borrower's cash flow as the starting point, not an afterthought.",
+    "storyBody3": "This page describes a fictional company created for a design portfolio. Any figures, dates, or achievements listed here are illustrative and not representative of a real, operating financial institution.",
     "missionTitle": "Our Mission",
     "missionBody": "To structure financing that fits the rhythm of a borrower's cash flow, not the other way around.",
     "valuesTitle": "What guides our advisory work",
@@ -105,8 +106,8 @@
       }
     ],
     "teamTitle": "Our Advisory Team",
-    "teamBody": "Our advisors are organised by sector so that every enquiry reaches someone fluent in the relevant industry's financing patterns. To reach the right specialist quickly, enquiries are directed through our Contact page rather than individual direct lines.",
-    "licenseNote": "{{siteName}} holds Australian Credit Licence (ACL) [ACL Number]."
+    "teamBody": "Our advisors are organised by sector so that every enquiry reaches someone fluent in the relevant industry's financing patterns. Individual advisor names and direct contact details are withheld on this sample site — use the Contact page to reach the team.",
+    "licenseNote": "Sample note: a real lending brokerage operating in Australia would display its Australian Credit Licence (ACL) number here."
   },
   "howItWorks": {
     "heroTitle": "How It Works",
@@ -226,7 +227,7 @@
   },
   "apply": {
     "heroTitle": "Apply Now",
-    "heroSubtitle": "Tell us about your financing need and a member of our advisory team will be in touch.",
+    "heroSubtitle": "Tell us about your financing need. This sample form composes an email to our sample advisory inbox — no live application is submitted.",
     "formTitle": "Application Details",
     "labels": {
       "fullName": "Full Name",
@@ -243,12 +244,12 @@
       "Business Loan — Non-Collateral",
       "Personal Loan"
     ],
-    "disclaimer": "Submitting this form will open your email client with your details pre-filled, ready to send directly to our advisory team.",
+    "disclaimer": "This is a sample form for a portfolio project. Submitting it will open your email client with a pre-filled message; no data is sent to a live server.",
     "successNote": "Your email client should now be open with your application details pre-filled."
   },
   "contact": {
     "heroTitle": "Contact Us",
-    "heroSubtitle": "Questions before you apply? Reach our advisory team below.",
+    "heroSubtitle": "Questions before you apply? Reach the sample advisory team below.",
     "detailsTitle": "Contact Details",
     "addressLabel": "Office",
     "emailLabel": "Email",
@@ -263,8 +264,8 @@
       "message": "Message",
       "submit": "Send Message"
     },
-    "disclaimer": "Submitting this form will open your email client with your message pre-filled, ready to send directly to our team.",
-    "mapNote": "Located in the Sydney CBD."
+    "disclaimer": "This is a sample form for a portfolio project. Submitting it will open your email client with a pre-filled message; no data is sent to a live server.",
+    "mapNote": "Map placeholder — sample location only."
   },
   "faq": {
     "heroTitle": "Frequently Asked Questions",
@@ -287,8 +288,8 @@
         "a": "Not necessarily. Our non-collateral options assess trading history, income, and repayment capacity rather than requiring a property or asset pledge."
       },
       {
-        "q": "Do you lend the money directly, or work with lenders?",
-        "a": "We act as an intermediary — structuring your application and matching it with suitable lending partners, rather than funding facilities directly ourselves."
+        "q": "Is this a real lending institution?",
+        "a": "No — this is a sample website built for design portfolio purposes. {{siteName}} is a fictional company and no real loans are offered."
       },
       {
         "q": "What documents will I need?",
@@ -298,8 +299,8 @@
   },
   "legal": {
     "privacyTitle": "Privacy Policy",
-    "privacyBody": "We collect the information you provide when you enquire, apply for financing, or contact our team, together with limited technical data needed to operate this site. We use this information to assess applications, respond to enquiries, and meet applicable regulatory obligations. We do not sell personal information to third parties. You may request access to, correction of, or deletion of your personal information at any time by contacting our team.",
+    "privacyBody": "This is placeholder legal text for a portfolio demonstration site. A real lending brokerage would publish a full privacy policy here describing what data is collected, how it is used, and how applicants can exercise their data rights under applicable law.",
     "termsTitle": "Terms of Service",
-    "termsBody": "By using this website you agree to provide accurate information in any enquiry or application you submit. All financing is subject to individual assessment, our lending partners' credit criteria, and formal approval; nothing on this site constitutes a guarantee of approval. Indicative rates, terms, and fees are subject to change and will be confirmed in writing before any facility is finalised. Any dispute arising from use of this site or our services will first be addressed through our internal complaints process."
+    "termsBody": "This is placeholder legal text for a portfolio demonstration site. A real lending brokerage would publish full terms of service here, including eligibility criteria, applicable rates and fees, and dispute resolution processes."
   }
 }

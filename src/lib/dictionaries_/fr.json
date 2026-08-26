@@ -14,7 +14,7 @@
     "apply": "Faire une Demande"
   },
   "footer": {
-    "description": "{{siteName}} structure le financement des entreprises et des particuliers dans treize secteurs, en combinant une expertise sectorielle avec des conditions claires et transparentes.",
+    "description": "Un site de démonstration pour un courtier en prêts, créé à des fins de portfolio. {{siteName}} est une entreprise fictive ; tous les noms, chiffres et coordonnées sont des exemples.",
     "quickLinks": "Liens Rapides",
     "sectors": "Secteurs Desservis",
     "getInTouch": "Nous Contacter",
@@ -22,7 +22,7 @@
     "rights": "Tous droits réservés.",
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions d'Utilisation",
-    "disclaimer": "Le financement est soumis à une évaluation individuelle, à des critères d'admissibilité et à l'approbation du prêteur. Les taux, durées et frais varient selon le demandeur et le type de facilité."
+    "disclaimer": "Site de démonstration à des fins de portfolio uniquement. Ce n'est pas une véritable institution financière. Aucun prêt réel n'est proposé ou émis via ce site."
   },
   "common": {
     "learnMore": "En Savoir Plus",
@@ -32,10 +32,11 @@
     "businessLoansLabel": "Prêts Aux Entreprises",
     "personalLoansLabel": "Prêts Personnels",
     "readMore": "Lire Plus",
-    "viewAll": "Voir Tous les Secteurs"
+    "viewAll": "Voir Tous les Secteurs",
+    "sampleNotice": "Contenu fictif — à des fins de démonstration de portfolio uniquement."
   },
   "home": {
-    "heroEyebrow": "Fondée en 2004 — Sydney, Australie",
+    "heroEyebrow": "Fondée en (année fictive) 2004 — Sydney, Australie",
     "heroTitle": "Un financement pensé pour la façon dont les projets avancent réellement.",
     "heroSubtitle": "{{siteName}} organise des prêts à faible taux et du financement de projets dans treize secteurs, avec des options sans garantie pour les fondateurs et les familles qui ont besoin de capitaux sans immobiliser leurs actifs.",
     "heroCtaPrimary": "Faire une Demande",
@@ -43,7 +44,7 @@
     "stats": [
       {
         "value": "20+",
-        "label": "Années d'Expérience"
+        "label": "Années d'Expérience (fictif)"
       },
       {
         "value": "13",
@@ -51,7 +52,7 @@
       },
       {
         "value": "A$1.2Md+",
-        "label": "Facilités Organisées"
+        "label": "Facilités Organisées (fictif)"
       },
       {
         "value": "48 h",
@@ -71,7 +72,7 @@
     "howTitle": "Un parcours clair, de la demande au financement",
     "howSubtitle": "Quatre étapes, transparentes à chaque instant.",
     "quoteText": "{{shortName}} a pris le temps de comprendre notre calendrier de décaissement avant de proposer une structure. C'est rare.",
-    "quoteAttribution": "Directrice des Opérations, Secteur Manufacturier",
+    "quoteAttribution": "Témoignage fictif — Directrice des Opérations, Secteur Manufacturier",
     "ctaTitle": "Prêt à parler financement ?",
     "ctaBody": "Envoyez-nous quelques informations sur votre projet ou votre besoin de financement personnel, et notre équipe de conseillers répondra sous deux jours ouvrés.",
     "ctaButton": "Démarrer Votre Demande"
@@ -82,7 +83,7 @@
     "storyTitle": "Notre Histoire",
     "storyBody1": "{{siteName}} est né d'un constat simple : la plupart des emprunteurs échouent non pas parce que leur entreprise est faible, mais parce que leur financement ne correspond pas à la façon dont leur entreprise gagne et dépense réellement. Nous avons bâti notre pratique de conseil autour de cet écart.",
     "storyBody2": "Aujourd'hui, notre équipe intervient dans treize secteurs industriels, de l'agriculture aux télécommunications, en structurant des facilités à faible taux et des prêts sans garantie pour les entreprises et les particuliers en Australie et au-delà.",
-    "storyBody3": "Cette approche a façonné chaque facilité que nous avons structurée depuis, en traitant la trésorerie de chaque emprunteur comme point de départ, et non comme une réflexion après coup.",
+    "storyBody3": "Cette page décrit une entreprise fictive créée pour un portfolio de design. Les chiffres, dates ou réalisations mentionnés ici sont illustratifs et ne représentent pas une véritable institution financière en activité.",
     "missionTitle": "Notre Mission",
     "missionBody": "Structurer un financement qui s'adapte au rythme de trésorerie de l'emprunteur, et non l'inverse.",
     "valuesTitle": "Ce qui guide notre travail de conseil",
@@ -105,8 +106,8 @@
       }
     ],
     "teamTitle": "Notre Équipe de Conseillers",
-    "teamBody": "Nos conseillers sont organisés par secteur afin que chaque demande soit traitée par une personne familière des schémas de financement de l'industrie concernée. Pour joindre rapidement le bon spécialiste, les demandes sont dirigées via notre page Contact plutôt que vers des lignes directes individuelles.",
-    "licenseNote": "{{siteName}} détient la licence de crédit australienne (ACL) [Numéro ACL]."
+    "teamBody": "Nos conseillers sont organisés par secteur afin que chaque demande soit traitée par une personne familière des schémas de financement de l'industrie concernée. Les noms et coordonnées directes des conseillers ne sont pas affichés sur ce site fictif ; utilisez la page Contact pour joindre l'équipe.",
+    "licenseNote": "Remarque fictive : un courtier en prêts réel opérant en Australie afficherait ici son numéro de licence de crédit australienne (ACL)."
   },
   "howItWorks": {
     "heroTitle": "Comment Ça Marche",
@@ -226,7 +227,7 @@
   },
   "apply": {
     "heroTitle": "Faire une Demande",
-    "heroSubtitle": "Parlez-nous de votre besoin de financement et un membre de notre équipe de conseillers vous contactera.",
+    "heroSubtitle": "Parlez-nous de votre besoin de financement. Ce formulaire fictif compose un e-mail vers notre boîte de conseil fictive — aucune demande réelle n'est soumise.",
     "formTitle": "Détails de la Demande",
     "labels": {
       "fullName": "Nom Complet",
@@ -243,12 +244,12 @@
       "Prêt Entreprise — Sans Garantie",
       "Prêt Personnel"
     ],
-    "disclaimer": "L'envoi de ce formulaire ouvrira votre client de messagerie avec vos informations pré-remplies, prêtes à être envoyées directement à notre équipe de conseillers.",
+    "disclaimer": "Ceci est un formulaire fictif pour un projet de portfolio. L'envoyer ouvrira votre client de messagerie avec un message pré-rempli ; aucune donnée n'est envoyée à un serveur réel.",
     "successNote": "Votre client de messagerie devrait maintenant s'ouvrir avec les détails de votre demande pré-remplis."
   },
   "contact": {
     "heroTitle": "Nous Contacter",
-    "heroSubtitle": "Des questions avant de faire une demande ? Contactez notre équipe de conseil ci-dessous.",
+    "heroSubtitle": "Des questions avant de faire une demande ? Contactez l'équipe de conseil fictive ci-dessous.",
     "detailsTitle": "Coordonnées",
     "addressLabel": "Bureau",
     "emailLabel": "E-mail",
@@ -263,8 +264,8 @@
       "message": "Message",
       "submit": "Envoyer le Message"
     },
-    "disclaimer": "L'envoi de ce formulaire ouvrira votre client de messagerie avec votre message pré-rempli, prêt à être envoyé directement à notre équipe.",
-    "mapNote": "Situés dans le quartier central des affaires de Sydney."
+    "disclaimer": "Ceci est un formulaire fictif pour un projet de portfolio. L'envoyer ouvrira votre client de messagerie avec un message pré-rempli ; aucune donnée n'est envoyée à un serveur réel.",
+    "mapNote": "Repère de carte fictif — emplacement fictif uniquement."
   },
   "faq": {
     "heroTitle": "Foire Aux Questions",
@@ -287,8 +288,8 @@
         "a": "Pas nécessairement. Nos options sans garantie évaluent l'historique commercial, les revenus et la capacité de remboursement plutôt que d'exiger une mise en gage de propriété ou d'actifs."
       },
       {
-        "q": "Prêtez-vous l'argent directement, ou travaillez-vous avec des prêteurs ?",
-        "a": "Nous agissons en tant qu'intermédiaire — nous structurons votre demande et la mettons en relation avec des partenaires prêteurs appropriés, plutôt que de financer nous-mêmes les facilités."
+        "q": "S'agit-il d'un véritable établissement de prêt ?",
+        "a": "Non — ceci est un site web fictif créé à des fins de portfolio de design. {{siteName}} est une entreprise fictive et aucun prêt réel n'est proposé."
       },
       {
         "q": "De quels documents aurai-je besoin ?",
@@ -298,8 +299,8 @@
   },
   "legal": {
     "privacyTitle": "Politique de Confidentialité",
-    "privacyBody": "Nous recueillons les informations que vous fournissez lorsque vous nous contactez, faites une demande de financement, ou communiquez avec notre équipe, ainsi que des données techniques limitées nécessaires au fonctionnement de ce site. Nous utilisons ces informations pour évaluer les demandes, répondre aux questions et respecter les obligations réglementaires applicables. Nous ne vendons pas d'informations personnelles à des tiers. Vous pouvez demander l'accès, la correction ou la suppression de vos informations personnelles à tout moment en contactant notre équipe.",
+    "privacyBody": "Ceci est un texte juridique fictif pour un site de démonstration de portfolio. Un véritable courtier en prêts publierait ici une politique de confidentialité complète décrivant les données collectées, leur utilisation, et la façon dont les demandeurs peuvent exercer leurs droits sur leurs données en vertu de la loi applicable.",
     "termsTitle": "Conditions d'Utilisation",
-    "termsBody": "En utilisant ce site web, vous acceptez de fournir des informations exactes dans toute demande ou candidature que vous soumettez. Tout financement est soumis à une évaluation individuelle, aux critères de crédit de nos partenaires prêteurs et à une approbation formelle ; rien sur ce site ne constitue une garantie d'approbation. Les taux, durées et frais indicatifs sont susceptibles d'être modifiés et seront confirmés par écrit avant la finalisation de toute facilité. Tout litige découlant de l'utilisation de ce site ou de nos services sera d'abord traité par le biais de notre processus interne de réclamation."
+    "termsBody": "Ceci est un texte juridique fictif pour un site de démonstration de portfolio. Un véritable courtier en prêts publierait ici des conditions d'utilisation complètes, incluant les critères d'admissibilité, les taux et frais applicables, et les processus de résolution des litiges."
   }
 }

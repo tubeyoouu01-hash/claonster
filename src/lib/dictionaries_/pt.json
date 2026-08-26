@@ -14,7 +14,7 @@
     "apply": "Candidatar-se Agora"
   },
   "footer": {
-    "description": "A {{siteName}} estrutura financiamento para empresas e particulares em treze setores, combinando conhecimento especializado por setor com condições claras e transparentes.",
+    "description": "Um site de demonstração para uma corretora de empréstimos, criado para fins de portefólio. {{siteName}} é uma empresa fictícia; todos os nomes, valores e dados de contacto apresentados são exemplos.",
     "quickLinks": "Links Rápidos",
     "sectors": "Setores que Atendemos",
     "getInTouch": "Contacte-nos",
@@ -22,7 +22,7 @@
     "rights": "Todos os direitos reservados.",
     "privacy": "Política de Privacidade",
     "terms": "Termos de Serviço",
-    "disclaimer": "O financiamento está sujeito a avaliação individual, critérios de elegibilidade e aprovação do credor. Taxas, prazos e comissões variam consoante o requerente e o tipo de facilidade."
+    "disclaimer": "Site de demonstração apenas para fins de portefólio. Não é uma instituição financeira real. Nenhum empréstimo real é oferecido ou concedido através deste site."
   },
   "common": {
     "learnMore": "Saber Mais",
@@ -32,31 +32,20 @@
     "businessLoansLabel": "Empréstimos Empresariais",
     "personalLoansLabel": "Empréstimos Pessoais",
     "readMore": "Ler Mais",
-    "viewAll": "Ver Todos os Setores"
+    "viewAll": "Ver Todos os Setores",
+    "sampleNotice": "Conteúdo de exemplo — apenas para demonstração de portefólio."
   },
   "home": {
-    "heroEyebrow": "Fundada em 2004 — Sydney, Austrália",
+    "heroEyebrow": "Fundada (ano de exemplo) 2004 — Sydney, Austrália",
     "heroTitle": "Financiamento pensado para a forma como os projetos reais realmente avançam.",
     "heroSubtitle": "A {{siteName}} organiza empréstimos de baixo juro e financiamento de projetos em treze setores, com opções sem garantia para fundadores e famílias que precisam de capital sem comprometer os seus ativos.",
     "heroCtaPrimary": "Candidatar-se Agora",
     "heroCtaSecondary": "Ver Como Funciona",
     "stats": [
-      {
-        "value": "20+",
-        "label": "Anos de Experiência"
-      },
-      {
-        "value": "13",
-        "label": "Setores Financiados"
-      },
-      {
-        "value": "A$1.2B+",
-        "label": "Facilidades Organizadas"
-      },
-      {
-        "value": "48 h",
-        "label": "Resposta Inicial Média"
-      }
+      { "value": "20+", "label": "Anos de Experiência (exemplo)" },
+      { "value": "13", "label": "Setores Financiados" },
+      { "value": "A$1.2B+", "label": "Facilidades Organizadas (exemplo)" },
+      { "value": "48 h", "label": "Resposta Inicial Média" }
     ],
     "productsTitle": "Duas formas de financiar o que vem a seguir",
     "productsSubtitle": "Quer esteja a financiar um projeto ou a cobrir um marco pessoal, estruturamos as facilidades de acordo com o seu fluxo de caixa — não apenas com a sua garantia.",
@@ -71,7 +60,7 @@
     "howTitle": "Um caminho claro, da consulta ao financiamento",
     "howSubtitle": "Quatro etapas, transparentes em cada fase.",
     "quoteText": "A {{shortName}} dedicou tempo a compreender o nosso calendário de desembolso antes de propor uma estrutura. Isso é raro.",
-    "quoteAttribution": "Diretora de Operações, Setor de Manufatura",
+    "quoteAttribution": "Testemunho de exemplo — Diretora de Operações, Setor de Manufatura",
     "ctaTitle": "Pronto para falar sobre financiamento?",
     "ctaBody": "Envie-nos alguns detalhes sobre o seu projeto ou necessidade de financiamento pessoal e a nossa equipa de consultores responderá em dois dias úteis.",
     "ctaButton": "Iniciar a Sua Candidatura"
@@ -82,52 +71,28 @@
     "storyTitle": "A Nossa História",
     "storyBody1": "A {{siteName}} foi fundada a partir de uma observação simples: a maioria dos mutuários não falha porque o seu negócio é fraco, mas sim porque o seu financiamento não corresponde à forma como o negócio realmente ganha e gasta. Construímos a nossa prática de consultoria à volta dessa lacuna.",
     "storyBody2": "Hoje a nossa equipa trabalha em treze setores industriais, da agricultura às telecomunicações, estruturando facilidades de baixo juro e empréstimos sem garantia para empresas e particulares na Austrália e além.",
-    "storyBody3": "Esse foco moldou cada facilidade que estruturámos desde então — tratando o fluxo de caixa de cada mutuário como ponto de partida, e não como uma reflexão tardia.",
+    "storyBody3": "Esta página descreve uma empresa fictícia criada para um portefólio de design. Quaisquer valores, datas ou conquistas aqui listados são ilustrativos e não representam uma instituição financeira real em operação.",
     "missionTitle": "A Nossa Missão",
     "missionBody": "Estruturar financiamento que se ajuste ao ritmo do fluxo de caixa do mutuário, e não o contrário.",
     "valuesTitle": "O que orienta o nosso trabalho de consultoria",
     "values": [
-      {
-        "title": "Transparência",
-        "body": "Termos claros, custos divulgados e nenhuma estrutura que a nossa equipa não recomendaria à sua própria família."
-      },
-      {
-        "title": "Conhecimento Setorial",
-        "body": "Consultores que compreendem calendários de desembolso, fluxo de caixa sazonal e riscos específicos da indústria antes de propor condições."
-      },
-      {
-        "title": "Rapidez com Diligência",
-        "body": "Tempos de resposta inicial rápidos, sem nunca dispensar a análise que protege ambas as partes."
-      },
-      {
-        "title": "Relações de Longo Prazo",
-        "body": "Estruturamos facilidades que esperamos rever à medida que o seu projeto ou fase de vida evolui."
-      }
+      { "title": "Transparência", "body": "Termos claros, custos divulgados e nenhuma estrutura que a nossa equipa não recomendaria à sua própria família." },
+      { "title": "Conhecimento Setorial", "body": "Consultores que compreendem calendários de desembolso, fluxo de caixa sazonal e riscos específicos da indústria antes de propor condições." },
+      { "title": "Rapidez com Diligência", "body": "Tempos de resposta inicial rápidos, sem nunca dispensar a análise que protege ambas as partes." },
+      { "title": "Relações de Longo Prazo", "body": "Estruturamos facilidades que esperamos rever à medida que o seu projeto ou fase de vida evolui." }
     ],
     "teamTitle": "A Nossa Equipa de Consultores",
-    "teamBody": "Os nossos consultores estão organizados por setor, para que cada pedido chegue a alguém familiarizado com os padrões de financiamento dessa indústria. Para chegar rapidamente ao especialista certo, os pedidos são encaminhados através da nossa página de Contacto, em vez de linhas diretas individuais.",
-    "licenseNote": "A {{siteName}} detém a Licença de Crédito Australiana (ACL) [Número da ACL]."
+    "teamBody": "Os nossos consultores estão organizados por setor, para que cada pedido chegue a alguém familiarizado com os padrões de financiamento dessa indústria. Os nomes e contactos diretos dos consultores individuais não são apresentados neste site de exemplo — utilize a página de Contacto para falar com a equipa.",
+    "licenseNote": "Nota de exemplo: uma corretora de empréstimos real a operar na Austrália apresentaria aqui o seu número de Licença de Crédito Australiana (ACL)."
   },
   "howItWorks": {
     "heroTitle": "Como Funciona",
     "heroSubtitle": "Da primeira consulta à facilidade financiada, é assim que o processo se desenrola.",
     "steps": [
-      {
-        "title": "Conte-nos a sua necessidade",
-        "body": "Submeta uma candidatura breve descrevendo o seu projeto, setor e o montante que pretende financiar — empresarial ou pessoal."
-      },
-      {
-        "title": "Revisão pela consultoria",
-        "body": "Um consultor especializado no seu setor analisa a sua candidatura e contacta-o para discutir estrutura, prazos e documentação necessária."
-      },
-      {
-        "title": "Estruturação e proposta",
-        "body": "Preparamos uma proposta de facilidade — taxa, prazo e estrutura de reembolso — ajustada ao seu fluxo de caixa ou calendário de desembolso."
-      },
-      {
-        "title": "Financiamento",
-        "body": "Assim que os termos são aceites e a documentação finalizada, os fundos são libertados de acordo com o calendário acordado."
-      }
+      { "title": "Conte-nos a sua necessidade", "body": "Submeta uma candidatura breve descrevendo o seu projeto, setor e o montante que pretende financiar — empresarial ou pessoal." },
+      { "title": "Revisão pela consultoria", "body": "Um consultor especializado no seu setor analisa a sua candidatura e contacta-o para discutir estrutura, prazos e documentação necessária." },
+      { "title": "Estruturação e proposta", "body": "Preparamos uma proposta de facilidade — taxa, prazo e estrutura de reembolso — ajustada ao seu fluxo de caixa ou calendário de desembolso." },
+      { "title": "Financiamento", "body": "Assim que os termos são aceites e a documentação finalizada, os fundos são libertados de acordo com o calendário acordado." }
     ],
     "timelineTitle": "Cronograma típico",
     "timelineBody": "Resposta inicial em 48 horas, condições indicativas em cerca de 5 dias úteis, e prazos de financiamento que variam consoante o tamanho da facilidade e a complexidade do setor.",
@@ -226,7 +191,7 @@
   },
   "apply": {
     "heroTitle": "Candidatar-se Agora",
-    "heroSubtitle": "Conte-nos a sua necessidade de financiamento e um membro da nossa equipa de consultores entrará em contacto.",
+    "heroSubtitle": "Conte-nos a sua necessidade de financiamento. Este formulário de exemplo compõe um e-mail para a nossa caixa de consultoria de exemplo — nenhuma candidatura real é submetida.",
     "formTitle": "Detalhes da Candidatura",
     "labels": {
       "fullName": "Nome Completo",
@@ -238,17 +203,13 @@
       "purpose": "Conte-nos sobre o seu projeto ou necessidade",
       "submit": "Submeter Candidatura"
     },
-    "loanCategoryOptions": [
-      "Empréstimo Empresarial — Baixo Juro / Financiamento de Projeto",
-      "Empréstimo Empresarial — Sem Garantia",
-      "Empréstimo Pessoal"
-    ],
-    "disclaimer": "Ao submeter este formulário, o seu cliente de e-mail abrirá com os seus dados pré-preenchidos, pronto a enviar diretamente à nossa equipa de consultores.",
+    "loanCategoryOptions": ["Empréstimo Empresarial — Baixo Juro / Financiamento de Projeto", "Empréstimo Empresarial — Sem Garantia", "Empréstimo Pessoal"],
+    "disclaimer": "Este é um formulário de exemplo para um projeto de portefólio. Ao submetê-lo, abrirá o seu cliente de e-mail com uma mensagem pré-preenchida; nenhum dado é enviado para um servidor real.",
     "successNote": "O seu cliente de e-mail deverá agora estar aberto com os detalhes da sua candidatura pré-preenchidos."
   },
   "contact": {
     "heroTitle": "Contacte-nos",
-    "heroSubtitle": "Perguntas antes de se candidatar? Contacte a nossa equipa de consultoria abaixo.",
+    "heroSubtitle": "Perguntas antes de se candidatar? Contacte a equipa de consultoria de exemplo abaixo.",
     "detailsTitle": "Dados de Contacto",
     "addressLabel": "Escritório",
     "emailLabel": "E-mail",
@@ -263,43 +224,25 @@
       "message": "Mensagem",
       "submit": "Enviar Mensagem"
     },
-    "disclaimer": "Ao submeter este formulário, o seu cliente de e-mail abrirá com a sua mensagem pré-preenchida, pronta a enviar diretamente à nossa equipa.",
-    "mapNote": "Localizados no centro financeiro de Sydney."
+    "disclaimer": "Este é um formulário de exemplo para um projeto de portefólio. Ao submetê-lo, abrirá o seu cliente de e-mail com uma mensagem pré-preenchida; nenhum dado é enviado para um servidor real.",
+    "mapNote": "Marcador de mapa — apenas localização de exemplo."
   },
   "faq": {
     "heroTitle": "Perguntas Frequentes",
     "heroSubtitle": "Respostas a perguntas comuns sobre o nosso processo de financiamento.",
     "items": [
-      {
-        "q": "Qual é a diferença entre os dois produtos de empréstimo?",
-        "a": "Os Empréstimos de Baixo Juro e Financiamento de Projetos são normalmente ajustados a um projeto específico ou despesa de capital e podem envolver garantia. Os Empréstimos Sem Garantia baseiam-se no fluxo de caixa e histórico, para mutuários elegíveis que precisam de fundos sem hipotecar ativos."
-      },
-      {
-        "q": "Que setores financiam?",
-        "a": "Estruturamos facilidades em treze setores empresariais — da saúde ao marítimo — além de financiamento pessoal para educação, viagens, saúde, habitação e veículos."
-      },
-      {
-        "q": "Quanto tempo demora uma candidatura?",
-        "a": "A resposta inicial é normalmente dentro de 48 horas, com condições indicativas em cerca de cinco dias úteis, dependendo do tamanho da facilidade e complexidade do setor."
-      },
-      {
-        "q": "Preciso de garantia para me qualificar?",
-        "a": "Não necessariamente. As nossas opções sem garantia avaliam o histórico comercial, rendimento e capacidade de reembolso, em vez de exigir uma hipoteca de propriedade ou ativos."
-      },
-      {
-        "q": "Emprestam o dinheiro diretamente ou trabalham com credores?",
-        "a": "Atuamos como intermediários — estruturando a sua candidatura e associando-a a parceiros credores adequados, em vez de financiarmos as facilidades diretamente."
-      },
-      {
-        "q": "Que documentos vou precisar?",
-        "a": "Normalmente comprovativo de identidade, um resumo financeiro, uma breve descrição do projeto ou finalidade, e extratos bancários recentes. Documentação específica do setor também pode aplicar-se."
-      }
+      { "q": "Qual é a diferença entre os dois produtos de empréstimo?", "a": "Os Empréstimos de Baixo Juro e Financiamento de Projetos são normalmente ajustados a um projeto específico ou despesa de capital e podem envolver garantia. Os Empréstimos Sem Garantia baseiam-se no fluxo de caixa e histórico, para mutuários elegíveis que precisam de fundos sem hipotecar ativos." },
+      { "q": "Que setores financiam?", "a": "Estruturamos facilidades em treze setores empresariais — da saúde ao marítimo — além de financiamento pessoal para educação, viagens, saúde, habitação e veículos." },
+      { "q": "Quanto tempo demora uma candidatura?", "a": "A resposta inicial é normalmente dentro de 48 horas, com condições indicativas em cerca de cinco dias úteis, dependendo do tamanho da facilidade e complexidade do setor." },
+      { "q": "Preciso de garantia para me qualificar?", "a": "Não necessariamente. As nossas opções sem garantia avaliam o histórico comercial, rendimento e capacidade de reembolso, em vez de exigir uma hipoteca de propriedade ou ativos." },
+      { "q": "Esta é uma instituição de empréstimos real?", "a": "Não — este é um site de exemplo criado para fins de portefólio de design. A {{siteName}} é uma empresa fictícia e nenhum empréstimo real é oferecido." },
+      { "q": "Que documentos vou precisar?", "a": "Normalmente comprovativo de identidade, um resumo financeiro, uma breve descrição do projeto ou finalidade, e extratos bancários recentes. Documentação específica do setor também pode aplicar-se." }
     ]
   },
   "legal": {
     "privacyTitle": "Política de Privacidade",
-    "privacyBody": "Recolhemos as informações que fornece ao consultar, candidatar-se a financiamento ou contactar a nossa equipa, juntamente com dados técnicos limitados necessários para operar este site. Utilizamos esta informação para avaliar candidaturas, responder a consultas e cumprir as obrigações regulamentares aplicáveis. Não vendemos informações pessoais a terceiros. Pode solicitar o acesso, correção ou eliminação das suas informações pessoais a qualquer momento, contactando a nossa equipa.",
+    "privacyBody": "Este é um texto legal de exemplo para um site de demonstração de portefólio. Uma corretora de empréstimos real publicaria aqui uma política de privacidade completa descrevendo que dados são recolhidos, como são utilizados, e como os candidatos podem exercer os seus direitos de dados ao abrigo da lei aplicável.",
     "termsTitle": "Termos de Serviço",
-    "termsBody": "Ao utilizar este site, concorda em fornecer informações precisas em qualquer consulta ou candidatura que submeta. Todo o financiamento está sujeito a avaliação individual, aos critérios de crédito dos nossos parceiros credores e a aprovação formal; nada neste site constitui uma garantia de aprovação. As taxas, prazos e comissões indicativos estão sujeitos a alteração e serão confirmados por escrito antes da finalização de qualquer facilidade. Qualquer litígio decorrente da utilização deste site ou dos nossos serviços será primeiro tratado através do nosso processo interno de reclamações."
+    "termsBody": "Este é um texto legal de exemplo para um site de demonstração de portefólio. Uma corretora de empréstimos real publicaria aqui termos de serviço completos, incluindo critérios de elegibilidade, taxas e comissões aplicáveis, e processos de resolução de litígios."
   }
 }

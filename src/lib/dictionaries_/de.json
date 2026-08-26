@@ -14,7 +14,7 @@
     "apply": "Jetzt Beantragen"
   },
   "footer": {
-    "description": "{{siteName}} strukturiert Finanzierungen für Unternehmen und Privatpersonen in dreizehn Branchen und verbindet branchenspezifisches Fachwissen mit klaren, transparenten Konditionen.",
+    "description": "Eine Demonstrations-Website für eine Kreditvermittlung, erstellt zu Portfoliozwecken. {{siteName}} ist ein fiktives Unternehmen; alle angezeigten Namen, Zahlen und Kontaktdaten sind Platzhalter.",
     "quickLinks": "Schnellzugriff",
     "sectors": "Von Uns Betreute Branchen",
     "getInTouch": "Kontakt Aufnehmen",
@@ -22,7 +22,7 @@
     "rights": "Alle Rechte vorbehalten.",
     "privacy": "Datenschutzerklärung",
     "terms": "Nutzungsbedingungen",
-    "disclaimer": "Die Finanzierung unterliegt einer individuellen Prüfung, Eignungskriterien und der Zustimmung des Kreditgebers. Zinssätze, Laufzeiten und Gebühren variieren je nach Antragsteller und Art der Fazilität."
+    "disclaimer": "Demo-Website ausschließlich zu Portfoliozwecken. Kein echtes Finanzinstitut. Über diese Website werden keine echten Kredite angeboten oder vergeben."
   },
   "common": {
     "learnMore": "Mehr Erfahren",
@@ -32,31 +32,20 @@
     "businessLoansLabel": "Unternehmenskredite",
     "personalLoansLabel": "Privatkredite",
     "readMore": "Weiterlesen",
-    "viewAll": "Alle Branchen Ansehen"
+    "viewAll": "Alle Branchen Ansehen",
+    "sampleNotice": "Beispielinhalt — nur zu Demonstrationszwecken für das Portfolio."
   },
   "home": {
-    "heroEyebrow": "Gegründet 2004 — Sydney, Australien",
+    "heroEyebrow": "Gegründet (Beispieljahr) 2004 — Sydney, Australien",
     "heroTitle": "Finanzierung, die sich daran orientiert, wie reale Projekte tatsächlich ablaufen.",
     "heroSubtitle": "{{siteName}} vermittelt zinsgünstige Darlehen und Projektfinanzierungen in dreizehn Branchen, mit besicherungsfreien Optionen für Gründer und Familien, die Kapital benötigen, ohne Vermögenswerte zu binden.",
     "heroCtaPrimary": "Jetzt Beantragen",
     "heroCtaSecondary": "So Funktioniert Es Ansehen",
     "stats": [
-      {
-        "value": "20+",
-        "label": "Jahre Erfahrung"
-      },
-      {
-        "value": "13",
-        "label": "Finanzierte Branchen"
-      },
-      {
-        "value": "A$1.2 Mrd.+",
-        "label": "Vermittelte Finanzierungen"
-      },
-      {
-        "value": "48 Std.",
-        "label": "Durchschnittliche Erstreaktion"
-      }
+      { "value": "20+", "label": "Jahre Erfahrung (Beispiel)" },
+      { "value": "13", "label": "Finanzierte Branchen" },
+      { "value": "A$1.2 Mrd.+", "label": "Vermittelte Finanzierungen (Beispiel)" },
+      { "value": "48 Std.", "label": "Durchschnittliche Erstreaktion" }
     ],
     "productsTitle": "Zwei Wege, das Nächste zu finanzieren",
     "productsSubtitle": "Ob Sie ein Projekt finanzieren oder einen persönlichen Meilenstein abdecken — wir strukturieren die Finanzierung nach Ihrem Cashflow, nicht nur nach Ihren Sicherheiten.",
@@ -71,7 +60,7 @@
     "howTitle": "Ein klarer Weg von der Anfrage bis zur Finanzierung",
     "howSubtitle": "Vier Schritte, in jeder Phase transparent.",
     "quoteText": "{{shortName}} hat sich die Zeit genommen, unseren Auszahlungsplan zu verstehen, bevor eine Struktur vorgeschlagen wurde. Das ist selten.",
-    "quoteAttribution": "Betriebsleiterin, Fertigungsbranche",
+    "quoteAttribution": "Beispiel-Referenz — Betriebsleiterin, Fertigungsbranche",
     "ctaTitle": "Bereit, über Finanzierung zu sprechen?",
     "ctaBody": "Senden Sie uns ein paar Details zu Ihrem Projekt oder Ihrem persönlichen Finanzierungsbedarf, und unser Beratungsteam meldet sich innerhalb von zwei Werktagen.",
     "ctaButton": "Antrag Starten"
@@ -82,52 +71,28 @@
     "storyTitle": "Unsere Geschichte",
     "storyBody1": "{{siteName}} wurde aus einer einfachen Beobachtung heraus gegründet: Die meisten Kreditnehmer scheitern nicht, weil ihr Geschäft schwach ist, sondern weil ihre Finanzierung nicht zu der Art passt, wie ihr Geschäft tatsächlich Geld verdient und ausgibt. Wir haben unsere Beratungspraxis um diese Lücke herum aufgebaut.",
     "storyBody2": "Heute ist unser Team in dreizehn Branchen tätig, von der Landwirtschaft bis zur Telekommunikation, und strukturiert zinsgünstige Finanzierungen und besicherungsfreie Kredite für Unternehmen und Privatpersonen in Australien und darüber hinaus.",
-    "storyBody3": "Dieser Fokus hat jede Fazilität geprägt, die wir seither strukturiert haben — der Cashflow jedes Kreditnehmers ist dabei stets der Ausgangspunkt, nicht ein nachträglicher Gedanke.",
+    "storyBody3": "Diese Seite beschreibt ein fiktives Unternehmen, das für ein Design-Portfolio erstellt wurde. Alle hier genannten Zahlen, Daten oder Erfolge sind illustrativ und stellen kein reales, aktives Finanzinstitut dar.",
     "missionTitle": "Unsere Mission",
     "missionBody": "Finanzierungen zu strukturieren, die sich dem Rhythmus des Cashflows des Kreditnehmers anpassen — nicht umgekehrt.",
     "valuesTitle": "Was unsere Beratungsarbeit leitet",
     "values": [
-      {
-        "title": "Transparenz",
-        "body": "Klare Konditionen, offengelegte Kosten und keine Strukturen, die unser Team nicht der eigenen Familie empfehlen würde."
-      },
-      {
-        "title": "Branchenkompetenz",
-        "body": "Berater, die Auszahlungspläne, saisonalen Cashflow und branchenspezifische Risiken verstehen, bevor Konditionen vorgeschlagen werden."
-      },
-      {
-        "title": "Schnelligkeit mit Sorgfalt",
-        "body": "Schnelle erste Reaktionszeiten, ohne je die Prüfung zu überspringen, die beide Seiten schützt."
-      },
-      {
-        "title": "Langfristige Beziehungen",
-        "body": "Wir strukturieren Finanzierungen, die wir voraussichtlich überarbeiten werden, sobald sich Ihr Projekt oder Ihre Lebensphase weiterentwickelt."
-      }
+      { "title": "Transparenz", "body": "Klare Konditionen, offengelegte Kosten und keine Strukturen, die unser Team nicht der eigenen Familie empfehlen würde." },
+      { "title": "Branchenkompetenz", "body": "Berater, die Auszahlungspläne, saisonalen Cashflow und branchenspezifische Risiken verstehen, bevor Konditionen vorgeschlagen werden." },
+      { "title": "Schnelligkeit mit Sorgfalt", "body": "Schnelle erste Reaktionszeiten, ohne je die Prüfung zu überspringen, die beide Seiten schützt." },
+      { "title": "Langfristige Beziehungen", "body": "Wir strukturieren Finanzierungen, die wir voraussichtlich überarbeiten werden, sobald sich Ihr Projekt oder Ihre Lebensphase weiterentwickelt." }
     ],
     "teamTitle": "Unser Beraterteam",
-    "teamBody": "Unsere Berater sind nach Branchen organisiert, damit jede Anfrage jemanden erreicht, der mit den Finanzierungsmustern der jeweiligen Branche vertraut ist. Damit Sie schnell den richtigen Spezialisten erreichen, werden Anfragen über unsere Kontaktseite geleitet, statt über einzelne Durchwahlen.",
-    "licenseNote": "{{siteName}} verfügt über die australische Kreditlizenz (ACL) [ACL-Nummer]."
+    "teamBody": "Unsere Berater sind nach Branchen organisiert, damit jede Anfrage jemanden erreicht, der mit den Finanzierungsmustern der jeweiligen Branche vertraut ist. Namen und direkte Kontaktdaten einzelner Berater werden auf dieser Beispiel-Website nicht angezeigt — nutzen Sie die Kontaktseite, um das Team zu erreichen.",
+    "licenseNote": "Beispielhinweis: Eine echte, in Australien tätige Kreditvermittlung würde hier ihre australische Kreditlizenznummer (ACL) anzeigen."
   },
   "howItWorks": {
     "heroTitle": "So Funktioniert Es",
     "heroSubtitle": "Von der ersten Anfrage bis zur finanzierten Fazilität — so sieht der Prozess aus.",
     "steps": [
-      {
-        "title": "Teilen Sie uns Ihren Bedarf mit",
-        "body": "Reichen Sie einen kurzen Antrag ein, der Ihr Projekt, Ihre Branche und den gewünschten Finanzierungsbetrag beschreibt — geschäftlich oder privat."
-      },
-      {
-        "title": "Prüfung durch die Beratung",
-        "body": "Ein auf Ihre Branche spezialisierter Berater prüft Ihren Antrag und meldet sich, um Struktur, Zeitrahmen und erforderliche Unterlagen zu besprechen."
-      },
-      {
-        "title": "Strukturierung & Angebot",
-        "body": "Wir erstellen einen Finanzierungsvorschlag — Zinssatz, Laufzeit und Rückzahlungsstruktur — abgestimmt auf Ihren Cashflow oder Auszahlungsplan."
-      },
-      {
-        "title": "Auszahlung",
-        "body": "Sobald die Konditionen akzeptiert und die Unterlagen finalisiert sind, werden die Mittel gemäß dem vereinbarten Plan freigegeben."
-      }
+      { "title": "Teilen Sie uns Ihren Bedarf mit", "body": "Reichen Sie einen kurzen Antrag ein, der Ihr Projekt, Ihre Branche und den gewünschten Finanzierungsbetrag beschreibt — geschäftlich oder privat." },
+      { "title": "Prüfung durch die Beratung", "body": "Ein auf Ihre Branche spezialisierter Berater prüft Ihren Antrag und meldet sich, um Struktur, Zeitrahmen und erforderliche Unterlagen zu besprechen." },
+      { "title": "Strukturierung & Angebot", "body": "Wir erstellen einen Finanzierungsvorschlag — Zinssatz, Laufzeit und Rückzahlungsstruktur — abgestimmt auf Ihren Cashflow oder Auszahlungsplan." },
+      { "title": "Auszahlung", "body": "Sobald die Konditionen akzeptiert und die Unterlagen finalisiert sind, werden die Mittel gemäß dem vereinbarten Plan freigegeben." }
     ],
     "timelineTitle": "Typischer Zeitrahmen",
     "timelineBody": "Erste Reaktion innerhalb von 48 Stunden, indikative Konditionen innerhalb von etwa 5 Werktagen, und Auszahlungsfristen, die je nach Finanzierungsgröße und Branchenkomplexität variieren.",
@@ -226,7 +191,7 @@
   },
   "apply": {
     "heroTitle": "Jetzt Beantragen",
-    "heroSubtitle": "Teilen Sie uns Ihren Finanzierungsbedarf mit, und ein Mitglied unseres Beratungsteams wird sich bei Ihnen melden.",
+    "heroSubtitle": "Teilen Sie uns Ihren Finanzierungsbedarf mit. Dieses Beispielformular verfasst eine E-Mail an unseren Beispiel-Beratungsposteingang — es wird kein echter Antrag eingereicht.",
     "formTitle": "Antragsdetails",
     "labels": {
       "fullName": "Vollständiger Name",
@@ -238,17 +203,13 @@
       "purpose": "Erzählen Sie uns von Ihrem Projekt oder Bedarf",
       "submit": "Antrag Einreichen"
     },
-    "loanCategoryOptions": [
-      "Unternehmenskredit — Zinsgünstig / Projektfinanzierung",
-      "Unternehmenskredit — Besicherungsfrei",
-      "Privatkredit"
-    ],
-    "disclaimer": "Beim Absenden dieses Formulars öffnet sich Ihr E-Mail-Programm mit Ihren vorausgefüllten Angaben, bereit zum direkten Versand an unser Beratungsteam.",
+    "loanCategoryOptions": ["Unternehmenskredit — Zinsgünstig / Projektfinanzierung", "Unternehmenskredit — Besicherungsfrei", "Privatkredit"],
+    "disclaimer": "Dies ist ein Beispielformular für ein Portfolioprojekt. Beim Absenden öffnet sich Ihr E-Mail-Programm mit einer vorausgefüllten Nachricht; es werden keine Daten an einen echten Server gesendet.",
     "successNote": "Ihr E-Mail-Programm sollte jetzt geöffnet sein, mit Ihren Antragsdetails vorausgefüllt."
   },
   "contact": {
     "heroTitle": "Kontaktieren Sie Uns",
-    "heroSubtitle": "Fragen vor Ihrem Antrag? Erreichen Sie unser Beraterteam unten.",
+    "heroSubtitle": "Fragen vor Ihrem Antrag? Erreichen Sie das Beispiel-Beraterteam unten.",
     "detailsTitle": "Kontaktdaten",
     "addressLabel": "Büro",
     "emailLabel": "E-Mail",
@@ -263,43 +224,25 @@
       "message": "Nachricht",
       "submit": "Nachricht Senden"
     },
-    "disclaimer": "Beim Absenden dieses Formulars öffnet sich Ihr E-Mail-Programm mit Ihrer vorausgefüllten Nachricht, bereit zum direkten Versand an unser Team.",
-    "mapNote": "Im zentralen Geschäftsviertel von Sydney gelegen."
+    "disclaimer": "Dies ist ein Beispielformular für ein Portfolioprojekt. Beim Absenden öffnet sich Ihr E-Mail-Programm mit einer vorausgefüllten Nachricht; es werden keine Daten an einen echten Server gesendet.",
+    "mapNote": "Kartenplatzhalter — nur Beispielstandort."
   },
   "faq": {
     "heroTitle": "Häufig Gestellte Fragen",
     "heroSubtitle": "Antworten auf häufige Fragen zu unserem Finanzierungsprozess.",
     "items": [
-      {
-        "q": "Was ist der Unterschied zwischen den beiden Kreditprodukten?",
-        "a": "Zinsgünstige Darlehen & Projektfinanzierung sind in der Regel auf ein bestimmtes Projekt oder eine Investitionsausgabe abgestimmt und können eine Besicherung erfordern. Besicherungsfreie Darlehen basieren auf Cashflow und Bonität, für qualifizierte Kreditnehmer, die Mittel benötigen, ohne Vermögenswerte zu verpfänden."
-      },
-      {
-        "q": "Welche Branchen finanzieren Sie?",
-        "a": "Wir strukturieren Fazilitäten in dreizehn Geschäftsbranchen — vom Gesundheitswesen bis zur Seeschifffahrt — sowie private Finanzierung für Bildung, Reisen, Gesundheit, Wohnen und Fahrzeuge."
-      },
-      {
-        "q": "Wie lange dauert ein Antrag?",
-        "a": "Die erste Reaktion erfolgt in der Regel innerhalb von 48 Stunden, mit indikativen Konditionen innerhalb von etwa fünf Werktagen, abhängig von der Größe der Fazilität und der Komplexität der Branche."
-      },
-      {
-        "q": "Benötige ich eine Sicherheit, um mich zu qualifizieren?",
-        "a": "Nicht unbedingt. Unsere besicherungsfreien Optionen bewerten Geschäftsverlauf, Einkommen und Rückzahlungsfähigkeit, anstatt eine Verpfändung von Immobilien oder Vermögenswerten zu verlangen."
-      },
-      {
-        "q": "Vergeben Sie das Geld direkt, oder arbeiten Sie mit Kreditgebern zusammen?",
-        "a": "Wir agieren als Vermittler — wir strukturieren Ihren Antrag und bringen ihn mit geeigneten Kreditgeber-Partnern zusammen, anstatt die Fazilitäten selbst zu finanzieren."
-      },
-      {
-        "q": "Welche Unterlagen benötige ich?",
-        "a": "In der Regel Identitätsnachweis, eine Finanzübersicht, eine kurze Projekt- oder Zweckbeschreibung und aktuelle Kontoauszüge. Branchenspezifische Unterlagen können ebenfalls erforderlich sein."
-      }
+      { "q": "Was ist der Unterschied zwischen den beiden Kreditprodukten?", "a": "Zinsgünstige Darlehen & Projektfinanzierung sind in der Regel auf ein bestimmtes Projekt oder eine Investitionsausgabe abgestimmt und können eine Besicherung erfordern. Besicherungsfreie Darlehen basieren auf Cashflow und Bonität, für qualifizierte Kreditnehmer, die Mittel benötigen, ohne Vermögenswerte zu verpfänden." },
+      { "q": "Welche Branchen finanzieren Sie?", "a": "Wir strukturieren Fazilitäten in dreizehn Geschäftsbranchen — vom Gesundheitswesen bis zur Seeschifffahrt — sowie private Finanzierung für Bildung, Reisen, Gesundheit, Wohnen und Fahrzeuge." },
+      { "q": "Wie lange dauert ein Antrag?", "a": "Die erste Reaktion erfolgt in der Regel innerhalb von 48 Stunden, mit indikativen Konditionen innerhalb von etwa fünf Werktagen, abhängig von der Größe der Fazilität und der Komplexität der Branche." },
+      { "q": "Benötige ich eine Sicherheit, um mich zu qualifizieren?", "a": "Nicht unbedingt. Unsere besicherungsfreien Optionen bewerten Geschäftsverlauf, Einkommen und Rückzahlungsfähigkeit, anstatt eine Verpfändung von Immobilien oder Vermögenswerten zu verlangen." },
+      { "q": "Ist dies ein echtes Kreditinstitut?", "a": "Nein — dies ist eine Beispiel-Website, die für Design-Portfoliozwecke erstellt wurde. {{siteName}} ist ein fiktives Unternehmen, und es werden keine echten Kredite angeboten." },
+      { "q": "Welche Unterlagen benötige ich?", "a": "In der Regel Identitätsnachweis, eine Finanzübersicht, eine kurze Projekt- oder Zweckbeschreibung und aktuelle Kontoauszüge. Branchenspezifische Unterlagen können ebenfalls erforderlich sein." }
     ]
   },
   "legal": {
     "privacyTitle": "Datenschutzerklärung",
-    "privacyBody": "Wir erheben die Informationen, die Sie bei einer Anfrage, einem Finanzierungsantrag oder der Kontaktaufnahme mit unserem Team angeben, zusammen mit begrenzten technischen Daten, die für den Betrieb dieser Website erforderlich sind. Wir verwenden diese Informationen, um Anträge zu prüfen, Anfragen zu beantworten und geltenden regulatorischen Pflichten nachzukommen. Wir verkaufen keine personenbezogenen Daten an Dritte. Sie können jederzeit Zugang zu, Berichtigung oder Löschung Ihrer personenbezogenen Daten verlangen, indem Sie unser Team kontaktieren.",
+    "privacyBody": "Dies ist ein Platzhalter-Rechtstext für eine Portfolio-Demonstrationswebsite. Eine echte Kreditvermittlung würde hier eine vollständige Datenschutzerklärung veröffentlichen, die beschreibt, welche Daten erhoben werden, wie sie verwendet werden und wie Antragsteller ihre Datenrechte nach geltendem Recht ausüben können.",
     "termsTitle": "Nutzungsbedingungen",
-    "termsBody": "Durch die Nutzung dieser Website erklären Sie sich damit einverstanden, in jeder Anfrage oder jedem Antrag, den Sie einreichen, korrekte Angaben zu machen. Jede Finanzierung unterliegt einer individuellen Prüfung, den Kreditkriterien unserer Kreditgeber-Partner und einer formellen Genehmigung; nichts auf dieser Website stellt eine Zusicherung der Genehmigung dar. Indikative Zinssätze, Laufzeiten und Gebühren können sich ändern und werden vor Abschluss einer Fazilität schriftlich bestätigt. Streitigkeiten aus der Nutzung dieser Website oder unserer Dienstleistungen werden zunächst über unser internes Beschwerdeverfahren behandelt."
+    "termsBody": "Dies ist ein Platzhalter-Rechtstext für eine Portfolio-Demonstrationswebsite. Eine echte Kreditvermittlung würde hier vollständige Nutzungsbedingungen veröffentlichen, einschließlich Eignungskriterien, geltender Zinssätze und Gebühren sowie Streitbeilegungsverfahren."
   }
 }

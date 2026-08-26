@@ -14,7 +14,7 @@
     "apply": "Solicitar Ahora"
   },
   "footer": {
-    "description": "{{siteName}} estructura financiamiento para empresas y particulares en trece sectores, combinando experiencia especializada por sector con condiciones claras y transparentes.",
+    "description": "Un sitio de demostración para una correduría de préstamos, creado con fines de portafolio. {{siteName}} es una empresa ficticia; todos los nombres, cifras y datos de contacto son de muestra.",
     "quickLinks": "Enlaces Rápidos",
     "sectors": "Sectores Atendidos",
     "getInTouch": "Contáctanos",
@@ -22,7 +22,7 @@
     "rights": "Todos los derechos reservados.",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
-    "disclaimer": "El financiamiento está sujeto a evaluación individual, criterios de elegibilidad y aprobación del prestamista. Las tasas, plazos y comisiones varían según el solicitante y el tipo de facilidad."
+    "disclaimer": "Sitio de demostración solo con fines de portafolio. No es una institución financiera real. No se ofrecen ni originan préstamos reales en este sitio."
   },
   "common": {
     "learnMore": "Saber Más",
@@ -32,10 +32,11 @@
     "businessLoansLabel": "Préstamos Empresariales",
     "personalLoansLabel": "Préstamos Personales",
     "readMore": "Leer Más",
-    "viewAll": "Ver Todos los Sectores"
+    "viewAll": "Ver Todos los Sectores",
+    "sampleNotice": "Contenido de muestra — solo para demostración de portafolio."
   },
   "home": {
-    "heroEyebrow": "Fundada en 2004 — Sídney, Australia",
+    "heroEyebrow": "Fundada (año de muestra) 2004 — Sídney, Australia",
     "heroTitle": "Financiamiento pensado para cómo se mueven realmente los proyectos.",
     "heroSubtitle": "{{siteName}} organiza préstamos de bajo interés y financiamiento de proyectos en trece sectores, con opciones sin garantía para fundadores y familias que necesitan capital sin comprometer sus activos.",
     "heroCtaPrimary": "Solicitar Ahora",
@@ -43,7 +44,7 @@
     "stats": [
       {
         "value": "20+",
-        "label": "Años de Trayectoria"
+        "label": "Años de Trayectoria (muestra)"
       },
       {
         "value": "13",
@@ -51,7 +52,7 @@
       },
       {
         "value": "A$1.2B+",
-        "label": "Facilidades Organizadas"
+        "label": "Facilidades Organizadas (muestra)"
       },
       {
         "value": "48 hrs",
@@ -71,7 +72,7 @@
     "howTitle": "Un camino claro desde la consulta hasta el financiamiento",
     "howSubtitle": "Cuatro pasos, transparentes en cada etapa.",
     "quoteText": "{{shortName}} se tomó el tiempo de entender nuestro cronograma de desembolso antes de proponer una estructura. Eso es poco común.",
-    "quoteAttribution": "Directora de Operaciones, Sector Manufactura",
+    "quoteAttribution": "Testimonio de muestra — Directora de Operaciones, Sector Manufactura",
     "ctaTitle": "¿Listo para hablar de financiamiento?",
     "ctaBody": "Envíanos algunos datos sobre tu proyecto o necesidad de financiamiento personal y nuestro equipo asesor responderá dentro de dos días hábiles.",
     "ctaButton": "Iniciar Tu Solicitud"
@@ -82,7 +83,7 @@
     "storyTitle": "Nuestra Historia",
     "storyBody1": "{{siteName}} se fundó a partir de una observación simple: la mayoría de los prestatarios no fracasan porque su negocio sea débil, sino porque su financiamiento no coincide con la forma en que su negocio realmente gana y gasta. Construimos nuestra práctica de asesoría a partir de esa brecha.",
     "storyBody2": "Hoy nuestro equipo trabaja en trece sectores industriales, desde la agricultura hasta las telecomunicaciones, estructurando facilidades de bajo interés y préstamos sin garantía para empresas y particulares en Australia y más allá.",
-    "storyBody3": "Ese enfoque ha definido cada facilidad que hemos estructurado desde entonces, tratando el flujo de caja de cada prestatario como punto de partida, no como una idea de último momento.",
+    "storyBody3": "Esta página describe una empresa ficticia creada para un portafolio de diseño. Cualquier cifra, fecha o logro mencionado aquí es ilustrativo y no representa a una institución financiera real en operación.",
     "missionTitle": "Nuestra Misión",
     "missionBody": "Estructurar financiamiento que se ajuste al ritmo del flujo de caja del prestatario, y no al revés.",
     "valuesTitle": "Lo que guía nuestra labor de asesoría",
@@ -105,8 +106,8 @@
       }
     ],
     "teamTitle": "Nuestro Equipo Asesor",
-    "teamBody": "Nuestros asesores están organizados por sector para que cada consulta llegue a alguien familiarizado con los patrones de financiamiento de esa industria. Para conectar rápidamente con el especialista adecuado, las consultas se dirigen a través de nuestra página de Contacto en lugar de líneas directas individuales.",
-    "licenseNote": "{{siteName}} posee la Licencia de Crédito Australiana (ACL) [Número de ACL]."
+    "teamBody": "Nuestros asesores están organizados por sector para que cada consulta llegue a alguien familiarizado con los patrones de financiamiento de esa industria. En este sitio de muestra no se muestran nombres ni datos de contacto directo de asesores individuales; usa la página de Contacto para comunicarte con el equipo.",
+    "licenseNote": "Nota de muestra: una correduría de préstamos real que opere en Australia mostraría aquí su número de Licencia de Crédito Australiana (ACL)."
   },
   "howItWorks": {
     "heroTitle": "Cómo Funciona",
@@ -226,7 +227,7 @@
   },
   "apply": {
     "heroTitle": "Solicitar Ahora",
-    "heroSubtitle": "Cuéntanos tu necesidad de financiamiento y un miembro de nuestro equipo asesor se pondrá en contacto.",
+    "heroSubtitle": "Cuéntanos tu necesidad de financiamiento. Este formulario de muestra redacta un correo a nuestra bandeja de asesoría de muestra; no se envía ninguna solicitud real.",
     "formTitle": "Datos de la Solicitud",
     "labels": {
       "fullName": "Nombre Completo",
@@ -243,12 +244,12 @@
       "Préstamo Empresarial — Sin Garantía",
       "Préstamo Personal"
     ],
-    "disclaimer": "Al enviar este formulario se abrirá tu cliente de correo con tus datos prellenados, listo para enviar directamente a nuestro equipo asesor.",
+    "disclaimer": "Este es un formulario de muestra para un proyecto de portafolio. Al enviarlo se abrirá tu cliente de correo con un mensaje prellenado; no se envían datos a un servidor real.",
     "successNote": "Tu cliente de correo debería abrirse ahora con los datos de tu solicitud prellenados."
   },
   "contact": {
     "heroTitle": "Contáctanos",
-    "heroSubtitle": "¿Preguntas antes de solicitar? Comunícate con nuestro equipo asesor abajo.",
+    "heroSubtitle": "¿Preguntas antes de solicitar? Comunícate con el equipo asesor de muestra abajo.",
     "detailsTitle": "Datos de Contacto",
     "addressLabel": "Oficina",
     "emailLabel": "Correo",
@@ -263,8 +264,8 @@
       "message": "Mensaje",
       "submit": "Enviar Mensaje"
     },
-    "disclaimer": "Al enviar este formulario se abrirá tu cliente de correo con tu mensaje prellenado, listo para enviar directamente a nuestro equipo.",
-    "mapNote": "Ubicados en el centro de Sídney (CBD)."
+    "disclaimer": "Este es un formulario de muestra para un proyecto de portafolio. Al enviarlo se abrirá tu cliente de correo con un mensaje prellenado; no se envían datos a un servidor real.",
+    "mapNote": "Marcador de mapa — solo ubicación de muestra."
   },
   "faq": {
     "heroTitle": "Preguntas Frecuentes",
@@ -287,8 +288,8 @@
         "a": "No necesariamente. Nuestras opciones sin garantía evalúan el historial comercial, los ingresos y la capacidad de pago en lugar de exigir una propiedad o activo en garantía."
       },
       {
-        "q": "¿Prestan el dinero directamente o trabajan con prestamistas?",
-        "a": "Actuamos como intermediarios: estructuramos tu solicitud y la vinculamos con socios prestamistas adecuados, en lugar de financiar las facilidades nosotros directamente."
+        "q": "¿Es esta una institución de préstamos real?",
+        "a": "No: este es un sitio web de muestra creado con fines de portafolio de diseño. {{siteName}} es una empresa ficticia y no se ofrecen préstamos reales."
       },
       {
         "q": "¿Qué documentos necesitaré?",
@@ -298,8 +299,8 @@
   },
   "legal": {
     "privacyTitle": "Política de Privacidad",
-    "privacyBody": "Recopilamos la información que nos proporcionas al consultar, solicitar financiamiento o contactar a nuestro equipo, junto con datos técnicos limitados necesarios para operar este sitio. Utilizamos esta información para evaluar solicitudes, responder consultas y cumplir con las obligaciones regulatorias aplicables. No vendemos información personal a terceros. Puedes solicitar acceso, corrección o eliminación de tu información personal en cualquier momento contactando a nuestro equipo.",
+    "privacyBody": "Este es un texto legal de muestra para un sitio de demostración de portafolio. Una correduría de préstamos real publicaría aquí una política de privacidad completa que describa qué datos se recopilan, cómo se usan y cómo los solicitantes pueden ejercer sus derechos de datos según la ley aplicable.",
     "termsTitle": "Términos de Servicio",
-    "termsBody": "Al utilizar este sitio web, aceptas proporcionar información precisa en cualquier consulta o solicitud que envíes. Todo financiamiento está sujeto a evaluación individual, a los criterios crediticios de nuestros socios prestamistas y a la aprobación formal; nada en este sitio constituye una garantía de aprobación. Las tasas, plazos y comisiones indicativas están sujetos a cambios y se confirmarán por escrito antes de finalizar cualquier facilidad. Cualquier disputa derivada del uso de este sitio o de nuestros servicios se abordará primero a través de nuestro proceso interno de reclamaciones."
+    "termsBody": "Este es un texto legal de muestra para un sitio de demostración de portafolio. Una correduría de préstamos real publicaría aquí términos de servicio completos, incluyendo criterios de elegibilidad, tasas y comisiones aplicables, y procesos de resolución de disputas."
   }
 }
