@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Lora, Public_Sans } from "next/font/google";
 import { notFound } from "next/navigation";
-import { locales, isLocale, type Locale } from "@/lib/locales";
+import { locales, isLocale, isRtl, type Locale } from "@/lib/locales";
 import { getDictionary } from "@/lib/get-dictionary";
 import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
@@ -9,14 +9,14 @@ import { SITE_NAME } from "@/lib/site-config";
 import "../globals.css";
 
 const lora = Lora({
-  subsets: ["latin"],
+  subsets: ["latin", "vietnamese"],
   variable: "--font-lora",
   weight: ["500", "600", "700"],
   display: "swap",
 });
 
 const publicSans = Public_Sans({
-  subsets: ["latin"],
+  subsets: ["latin", "vietnamese"],
   variable: "--font-public-sans",
   weight: ["400", "500", "600", "700"],
   display: "swap",
@@ -51,9 +51,10 @@ export default async function LocaleLayout({
   if (!isLocale(locale)) notFound();
 
   const dict = await getDictionary(locale as Locale);
+  const dir = isRtl(locale as Locale) ? "rtl" : "ltr";
 
   return (
-    <html lang={locale} className={`${lora.variable} ${publicSans.variable}`}>
+    <html lang={locale} dir={dir} className={`${lora.variable} ${publicSans.variable}`}>
       <body className="min-h-screen flex flex-col antialiased">
         <Header locale={locale as Locale} dict={dict} />
         <main className="flex-1">{children}</main>

@@ -70,25 +70,11 @@
     "personalSubtitle": "学费、旅行、医疗支出、首套房产或新车——人生的重要节点同样值得与企业融资一样的结构化方案。",
     "howTitle": "从咨询到放款的清晰流程",
     "howSubtitle": "四个步骤，每一步都公开透明。",
+    "quoteText": "{{shortName}} 在提出方案前，花时间了解了我们的放款计划安排。这一点很难得。",
+    "quoteAttribution": "制造行业运营总监",
     "ctaTitle": "准备好聊聊融资方案了吗？",
     "ctaBody": "请向我们简单介绍您的项目或个人融资需求，我们的顾问团队将在两个工作日内回复。",
-    "ctaButton": "开始申请",
-    "testimonials": [
-      {
-        "text": "{{shortName}}在提出方案前，花时间了解了我们的放款计划安排。这一点很难得。",
-        "attribution": "制造行业运营总监"
-      },
-      {
-        "text": "我们急需无抵押融资，整个流程比我们合作过的任何银行都要快。",
-        "attribution": "进出口行业总经理"
-      },
-      {
-        "text": "将融资安排与施工时间表相匹配，意味着我们的资金从未闲置。这种对细节的关注带来了真正的不同。",
-        "attribution": "建筑行业项目经理"
-      }
-    ],
-    "prevTestimonial": "上一条评价",
-    "nextTestimonial": "下一条评价"
+    "ctaButton": "开始申请"
   },
   "about": {
     "heroTitle": "关于 {{siteName}}",

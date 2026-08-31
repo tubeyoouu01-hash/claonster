@@ -49,7 +49,7 @@ export function ContactForm({ dict }: { dict: Dictionary }) {
         <textarea required name="message" rows={6} className={inputClass} />
       </div>
 
-      {/* <p className="text-xs text-slate-light italic">{dict.contact.disclaimer}</p> */}
+      <p className="text-xs text-slate-light italic">{dict.contact.disclaimer}</p>
 
       <button
         type="submit"

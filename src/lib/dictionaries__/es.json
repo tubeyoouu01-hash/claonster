@@ -70,25 +70,11 @@
     "personalSubtitle": "Matrícula escolar, viajes, gastos médicos, tu primera vivienda o un auto nuevo: los hitos personales merecen el mismo enfoque estructurado que una facilidad empresarial.",
     "howTitle": "Un camino claro desde la consulta hasta el financiamiento",
     "howSubtitle": "Cuatro pasos, transparentes en cada etapa.",
+    "quoteText": "{{shortName}} se tomó el tiempo de entender nuestro cronograma de desembolso antes de proponer una estructura. Eso es poco común.",
+    "quoteAttribution": "Directora de Operaciones, Sector Manufactura",
     "ctaTitle": "¿Listo para hablar de financiamiento?",
     "ctaBody": "Envíanos algunos datos sobre tu proyecto o necesidad de financiamiento personal y nuestro equipo asesor responderá dentro de dos días hábiles.",
-    "ctaButton": "Iniciar Tu Solicitud",
-    "testimonials": [
-      {
-        "text": "{{shortName}} se tomó el tiempo de entender nuestro cronograma de desembolso antes de proponer una estructura. Eso es poco común.",
-        "attribution": "Directora de Operaciones, Sector Manufactura"
-      },
-      {
-        "text": "Necesitábamos financiamiento sin garantía con rapidez, y el proceso avanzó más rápido que con cualquier banco con el que hubiéramos trabajado antes.",
-        "attribution": "Director General, Importación/Exportación"
-      },
-      {
-        "text": "Estructurar nuestra facilidad según el cronograma de construcción significó que nunca tuvimos efectivo inactivo. Esa atención al detalle marcó la diferencia.",
-        "attribution": "Gerente de Proyecto, Construcción"
-      }
-    ],
-    "prevTestimonial": "Testimonio anterior",
-    "nextTestimonial": "Testimonio siguiente"
+    "ctaButton": "Iniciar Tu Solicitud"
   },
   "about": {
     "heroTitle": "Sobre {{siteName}}",

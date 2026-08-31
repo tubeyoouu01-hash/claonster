@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, TrendingDown, ShieldCheck, Quote } from "lucide-react";
+import { ArrowRight, TrendingDown, ShieldCheck } from "lucide-react";
 import { getDictionary } from "@/lib/get-dictionary";
 import { isLocale, type Locale } from "@/lib/locales";
 import { notFound } from "next/navigation";
@@ -10,6 +10,7 @@ import { ProductCard } from "@/components/ProductCard";
 import { SectorCard } from "@/components/SectorCard";
 import { StepList } from "@/components/StepList";
 import { CtaBand } from "@/components/CtaBand";
+import { TestimonialCarousel } from "@/components/TestimonialCarousel";
 
 export default async function HomePage({
   params,
@@ -150,13 +151,13 @@ export default async function HomePage({
         </div>
       </section>
 
-      {/* Testimonial */}
-      <section className="mx-auto max-w-4xl px-6 py-20 text-center">
-        <Quote className="h-8 w-8 text-gold mx-auto mb-6" strokeWidth={1.5} />
-        <p className="font-display text-2xl sm:text-3xl text-ink leading-snug">
-          &ldquo;{dict.home.quoteText}&rdquo;
-        </p>
-        <p className="mt-6 text-sm text-slate-light tracking-wide">{dict.home.quoteAttribution}</p>
+      {/* Testimonials */}
+      <section className="mx-auto max-w-4xl px-6 py-20">
+        <TestimonialCarousel
+          testimonials={dict.home.testimonials}
+          prevLabel={dict.home.prevTestimonial}
+          nextLabel={dict.home.nextTestimonial}
+        />
       </section>
 
       <CtaBand

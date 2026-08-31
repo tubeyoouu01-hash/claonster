@@ -42,7 +42,7 @@ export function LanguageSwitcher({ current }: { current: Locale }) {
       {open && (
         <ul
           role="listbox"
-          className="absolute right-0 top-full mt-2 w-36 rounded-sm border border-navy-light/40 bg-ink-deep shadow-lg z-50"
+          className="absolute right-0 top-full mt-2 w-44 max-h-80 overflow-y-auto rounded-sm border border-navy-light/40 bg-ink-deep shadow-lg z-50"
         >
           {locales.map((locale) => (
             <li key={locale}>

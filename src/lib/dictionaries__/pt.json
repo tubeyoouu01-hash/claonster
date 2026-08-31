@@ -70,25 +70,11 @@
     "personalSubtitle": "Propinas, viagens, despesas médicas, a primeira casa ou um carro novo — os marcos pessoais merecem a mesma abordagem estruturada que uma facilidade empresarial.",
     "howTitle": "Um caminho claro, da consulta ao financiamento",
     "howSubtitle": "Quatro etapas, transparentes em cada fase.",
+    "quoteText": "A {{shortName}} dedicou tempo a compreender o nosso calendário de desembolso antes de propor uma estrutura. Isso é raro.",
+    "quoteAttribution": "Diretora de Operações, Setor de Manufatura",
     "ctaTitle": "Pronto para falar sobre financiamento?",
     "ctaBody": "Envie-nos alguns detalhes sobre o seu projeto ou necessidade de financiamento pessoal e a nossa equipa de consultores responderá em dois dias úteis.",
-    "ctaButton": "Iniciar a Sua Candidatura",
-    "testimonials": [
-      {
-        "text": "A {{shortName}} dedicou tempo a compreender o nosso calendário de desembolso antes de propor uma estrutura. Isso é raro.",
-        "attribution": "Diretora de Operações, Setor de Manufatura"
-      },
-      {
-        "text": "Precisávamos de financiamento sem garantia rapidamente, e o processo avançou mais depressa do que com qualquer banco com que já tínhamos trabalhado.",
-        "attribution": "Diretor-Geral, Importação/Exportação"
-      },
-      {
-        "text": "Estruturar a nossa facilidade de acordo com o cronograma de construção significou que nunca tivemos capital parado. Essa atenção ao detalhe fez toda a diferença.",
-        "attribution": "Gestor de Projeto, Construção"
-      }
-    ],
-    "prevTestimonial": "Testemunho anterior",
-    "nextTestimonial": "Testemunho seguinte"
+    "ctaButton": "Iniciar a Sua Candidatura"
   },
   "about": {
     "heroTitle": "Sobre a {{siteName}}",

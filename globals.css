@@ -1,7 +1,6 @@
 @import "tailwindcss";
 @source "../app";
 @source "../components";
-
 @theme {
   --color-ink: #0f2a43;
   --color-ink-deep: #0a1c2e;

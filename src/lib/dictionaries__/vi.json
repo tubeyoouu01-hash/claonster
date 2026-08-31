@@ -70,25 +70,11 @@
     "personalSubtitle": "Học phí, du lịch, chi phí y tế, ngôi nhà đầu tiên, hay một chiếc xe mới — những cột mốc cá nhân xứng đáng nhận được cách tiếp cận bài bản như một hạn mức doanh nghiệp.",
     "howTitle": "Một lộ trình rõ ràng từ khi liên hệ đến khi được cấp vốn",
     "howSubtitle": "Bốn bước, minh bạch ở mọi giai đoạn.",
+    "quoteText": "{{shortName}} đã dành thời gian để hiểu lịch giải ngân của chúng tôi trước khi đề xuất một cấu trúc. Điều đó thật hiếm có.",
+    "quoteAttribution": "Giám Đốc Vận Hành, Ngành Sản Xuất",
     "ctaTitle": "Sẵn sàng trao đổi về tài trợ vốn?",
     "ctaBody": "Gửi cho chúng tôi vài thông tin về dự án hoặc nhu cầu tài trợ cá nhân của bạn, đội ngũ tư vấn sẽ phản hồi trong vòng hai ngày làm việc.",
-    "ctaButton": "Bắt Đầu Đăng Ký",
-    "testimonials": [
-      {
-        "text": "{{shortName}} đã dành thời gian để hiểu lịch giải ngân của chúng tôi trước khi đề xuất một cấu trúc. Điều đó thật hiếm có.",
-        "attribution": "Giám Đốc Vận Hành, Ngành Sản Xuất"
-      },
-      {
-        "text": "Chúng tôi cần tài trợ không thế chấp nhanh chóng, và quy trình diễn ra nhanh hơn bất kỳ ngân hàng nào mà chúng tôi từng làm việc trước đây.",
-        "attribution": "Tổng Giám Đốc, Ngành Xuất Nhập Khẩu"
-      },
-      {
-        "text": "Việc thiết kế hạn mức theo tiến độ thi công có nghĩa là chúng tôi không bao giờ có vốn nhàn rỗi. Sự chú ý đến từng chi tiết đó đã tạo nên sự khác biệt thực sự.",
-        "attribution": "Quản Lý Dự Án, Ngành Xây Dựng"
-      }
-    ],
-    "prevTestimonial": "Nhận xét trước",
-    "nextTestimonial": "Nhận xét tiếp theo"
+    "ctaButton": "Bắt Đầu Đăng Ký"
   },
   "about": {
     "heroTitle": "Về {{siteName}}",

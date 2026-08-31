@@ -70,25 +70,11 @@
     "personalSubtitle": "Schulgebühren, Reisen, medizinische Kosten, das erste Eigenheim oder ein neues Auto — persönliche Meilensteine verdienen denselben strukturierten Ansatz wie eine Unternehmensfinanzierung.",
     "howTitle": "Ein klarer Weg von der Anfrage bis zur Finanzierung",
     "howSubtitle": "Vier Schritte, in jeder Phase transparent.",
+    "quoteText": "{{shortName}} hat sich die Zeit genommen, unseren Auszahlungsplan zu verstehen, bevor eine Struktur vorgeschlagen wurde. Das ist selten.",
+    "quoteAttribution": "Betriebsleiterin, Fertigungsbranche",
     "ctaTitle": "Bereit, über Finanzierung zu sprechen?",
     "ctaBody": "Senden Sie uns ein paar Details zu Ihrem Projekt oder Ihrem persönlichen Finanzierungsbedarf, und unser Beratungsteam meldet sich innerhalb von zwei Werktagen.",
-    "ctaButton": "Antrag Starten",
-    "testimonials": [
-      {
-        "text": "{{shortName}} hat sich die Zeit genommen, unseren Auszahlungsplan zu verstehen, bevor eine Struktur vorgeschlagen wurde. Das ist selten.",
-        "attribution": "Betriebsleiterin, Fertigungsbranche"
-      },
-      {
-        "text": "Wir brauchten schnell eine besicherungsfreie Finanzierung, und der Prozess verlief schneller als bei jeder Bank, mit der wir zuvor zusammengearbeitet hatten.",
-        "attribution": "Geschäftsführer, Import/Export"
-      },
-      {
-        "text": "Die Fazilität am Bauzeitplan auszurichten bedeutete, dass unser Kapital nie ungenutzt blieb. Diese Liebe zum Detail machte den entscheidenden Unterschied.",
-        "attribution": "Projektleiter, Bauwesen"
-      }
-    ],
-    "prevTestimonial": "Vorherige Referenz",
-    "nextTestimonial": "Nächste Referenz"
+    "ctaButton": "Antrag Starten"
   },
   "about": {
     "heroTitle": "Über {{siteName}}",

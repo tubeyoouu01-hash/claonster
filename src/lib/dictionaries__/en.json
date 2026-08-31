@@ -70,25 +70,11 @@
     "personalSubtitle": "School fees, travel, medical costs, a first home, or a new car — personal milestones deserve the same structured approach as a business facility.",
     "howTitle": "A straightforward path from enquiry to funding",
     "howSubtitle": "Four steps, transparent at every stage.",
+    "quoteText": "{{shortName}} took the time to understand our drawdown schedule before proposing a structure. That's rare.",
+    "quoteAttribution": "Operations Director, Manufacturing Sector",
     "ctaTitle": "Ready to talk financing?",
     "ctaBody": "Send us a few details about your project or personal financing need and our advisory team will respond within two business days.",
-    "ctaButton": "Start Your Application",
-    "testimonials": [
-      {
-        "text": "{{shortName}} took the time to understand our drawdown schedule before proposing a structure. That's rare.",
-        "attribution": "Operations Director, Manufacturing Sector"
-      },
-      {
-        "text": "We needed non-collateral financing fast, and the process moved faster than any bank we'd worked with before.",
-        "attribution": "Managing Director, Import/Export"
-      },
-      {
-        "text": "Structuring our facility around the build timeline meant we never had cash sitting idle. That attention to detail made all the difference.",
-        "attribution": "Project Manager, Construction"
-      }
-    ],
-    "prevTestimonial": "Previous testimonial",
-    "nextTestimonial": "Next testimonial"
+    "ctaButton": "Start Your Application"
   },
   "about": {
     "heroTitle": "About {{siteName}}",

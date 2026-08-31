@@ -70,25 +70,11 @@
     "personalSubtitle": "Frais de scolarité, voyages, frais médicaux, première maison ou nouvelle voiture — les étapes personnelles méritent la même approche structurée qu'une facilité d'entreprise.",
     "howTitle": "Un parcours clair, de la demande au financement",
     "howSubtitle": "Quatre étapes, transparentes à chaque instant.",
+    "quoteText": "{{shortName}} a pris le temps de comprendre notre calendrier de décaissement avant de proposer une structure. C'est rare.",
+    "quoteAttribution": "Directrice des Opérations, Secteur Manufacturier",
     "ctaTitle": "Prêt à parler financement ?",
     "ctaBody": "Envoyez-nous quelques informations sur votre projet ou votre besoin de financement personnel, et notre équipe de conseillers répondra sous deux jours ouvrés.",
-    "ctaButton": "Démarrer Votre Demande",
-    "testimonials": [
-      {
-        "text": "{{shortName}} a pris le temps de comprendre notre calendrier de décaissement avant de proposer une structure. C'est rare.",
-        "attribution": "Directrice des Opérations, Secteur Manufacturier"
-      },
-      {
-        "text": "Nous avions besoin d'un financement sans garantie rapidement, et le processus a avancé plus vite qu'avec n'importe quelle banque avec laquelle nous avions travaillé auparavant.",
-        "attribution": "Directeur Général, Import/Export"
-      },
-      {
-        "text": "Structurer notre facilité selon le calendrier de construction a fait que nous n'avons jamais eu de trésorerie inutilisée. Cette attention aux détails a fait toute la différence.",
-        "attribution": "Chef de Projet, Construction"
-      }
-    ],
-    "prevTestimonial": "Témoignage précédent",
-    "nextTestimonial": "Témoignage suivant"
+    "ctaButton": "Démarrer Votre Demande"
   },
   "about": {
     "heroTitle": "À Propos de {{siteName}}",

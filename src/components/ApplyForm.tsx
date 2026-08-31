@@ -76,7 +76,7 @@ export function ApplyForm({ dict }: { dict: Dictionary }) {
         <textarea required name="purpose" rows={5} className={inputClass} />
       </div>
 
-      {/* <p className="text-xs text-slate-light italic">{dict.apply.disclaimer}</p> */}
+      <p className="text-xs text-slate-light italic">{dict.apply.disclaimer}</p>
 
       <button
         type="submit"
