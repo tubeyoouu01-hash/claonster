@@ -75,16 +75,16 @@
     "ctaButton": "Démarrer Votre Demande",
     "testimonials": [
       {
-        "text": "{{shortName}} a pris le temps de comprendre notre calendrier de décaissement avant de proposer une structure. C'est rare.",
-        "attribution": "Directrice des Opérations, Secteur Manufacturier"
+        "text": "{{shortName}} a pris le temps de bien comprendre notre calendrier de décaissement avant de proposer quoi que ce soit. Ils nous ont accompagnés à travers des projections de trésorerie que la plupart des courtiers ne prendraient pas la peine d'examiner, et la structure retenue correspondait presque exactement à notre cycle de production. Ce niveau d'attention aux détails est rare.",
+        "role": "Directrice des Opérations, Secteur Manufacturier"
       },
       {
-        "text": "Nous avions besoin d'un financement sans garantie rapidement, et le processus a avancé plus vite qu'avec n'importe quelle banque avec laquelle nous avions travaillé auparavant.",
-        "attribution": "Directeur Général, Import/Export"
+        "text": "Nous avions besoin d'un financement sans garantie rapidement, avant une échéance d'expédition impossible à déplacer. Le processus a avancé plus vite qu'avec n'importe quelle banque avec laquelle nous avions travaillé auparavant, et l'équipe est restée réactive jusqu'au déblocage des fonds. C'est le type de rapidité dont notre secteur a vraiment besoin.",
+        "role": "Directeur Général, Import et Export"
       },
       {
-        "text": "Structurer notre facilité selon le calendrier de construction a fait que nous n'avons jamais eu de trésorerie inutilisée. Cette attention aux détails a fait toute la différence.",
-        "attribution": "Chef de Projet, Construction"
+        "text": "Structurer notre facilité selon le calendrier de construction a fait que nous n'avons jamais eu de trésorerie inutilisée entre les tirages. Chaque paiement d'étape correspondait à l'avancement réel du chantier, et non à un calendrier générique. Cette attention aux détails a fait une réelle différence sur nos marges.",
+        "role": "Chef de Projet, Construction"
       }
     ],
     "prevTestimonial": "Témoignage précédent",

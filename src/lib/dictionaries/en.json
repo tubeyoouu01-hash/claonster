@@ -75,16 +75,16 @@
     "ctaButton": "Start Your Application",
     "testimonials": [
       {
-        "text": "{{shortName}} took the time to understand our drawdown schedule before proposing a structure. That's rare.",
-        "attribution": "Operations Director, Manufacturing Sector"
+        "text": "{{shortName}} took the time to properly understand our drawdown schedule before proposing anything. They walked us through cash flow projections most brokers wouldn't bother with, and the structure they landed on matched our production cycle almost exactly. That kind of attention to detail is rare.",
+        "role": "Operations Director, Manufacturing Sector"
       },
       {
-        "text": "We needed non-collateral financing fast, and the process moved faster than any bank we'd worked with before.",
-        "attribution": "Managing Director, Import/Export"
+        "text": "We needed non-collateral financing fast, ahead of a shipment deadline that couldn't move. The process moved faster than any bank we'd worked with before, and the team stayed responsive right up until funds were released. It's the kind of speed our industry actually needs.",
+        "role": "Managing Director, Import & Export"
       },
       {
-        "text": "Structuring our facility around the build timeline meant we never had cash sitting idle. That attention to detail made all the difference.",
-        "attribution": "Project Manager, Construction"
+        "text": "Structuring our facility around the build timeline meant we never had cash sitting idle between draws. Every milestone payment lined up with where we actually were on site, not some generic schedule. That attention to detail made a real difference to our margins.",
+        "role": "Project Manager, Construction"
       }
     ],
     "prevTestimonial": "Previous testimonial",

@@ -75,16 +75,16 @@
     "ctaButton": "Iniciar a Sua Candidatura",
     "testimonials": [
       {
-        "text": "A {{shortName}} dedicou tempo a compreender o nosso calendário de desembolso antes de propor uma estrutura. Isso é raro.",
-        "attribution": "Diretora de Operações, Setor de Manufatura"
+        "text": "A {{shortName}} dedicou tempo a compreender verdadeiramente o nosso calendário de desembolso antes de propor seja o que for. Guiaram-nos por projeções de fluxo de caixa que a maioria dos intermediários nem se daria ao trabalho de analisar, e a estrutura a que chegaram encaixou-se quase na perfeição com o nosso ciclo de produção. Esse nível de atenção ao detalhe é raro.",
+        "role": "Diretora de Operações, Setor de Manufatura"
       },
       {
-        "text": "Precisávamos de financiamento sem garantia rapidamente, e o processo avançou mais depressa do que com qualquer banco com que já tínhamos trabalhado.",
-        "attribution": "Diretor-Geral, Importação/Exportação"
+        "text": "Precisávamos de financiamento sem garantia rapidamente, antes de um prazo de envio que não podia ser adiado. O processo avançou mais depressa do que com qualquer banco com que já tínhamos trabalhado, e a equipa manteve-se disponível até à libertação dos fundos. É o tipo de rapidez de que o nosso setor realmente precisa.",
+        "role": "Diretor-Geral, Importação e Exportação"
       },
       {
-        "text": "Estruturar a nossa facilidade de acordo com o cronograma de construção significou que nunca tivemos capital parado. Essa atenção ao detalhe fez toda a diferença.",
-        "attribution": "Gestor de Projeto, Construção"
+        "text": "Estruturar a nossa facilidade de acordo com o cronograma de construção significou que nunca tivemos capital parado entre desembolsos. Cada pagamento por marco correspondia ao progresso real da obra, e não a um calendário genérico. Essa atenção ao detalhe fez uma diferença real nas nossas margens.",
+        "role": "Gestor de Projeto, Construção"
       }
     ],
     "prevTestimonial": "Testemunho anterior",

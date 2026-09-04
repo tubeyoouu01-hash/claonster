@@ -75,16 +75,16 @@
     "ctaButton": "Iniciar Tu Solicitud",
     "testimonials": [
       {
-        "text": "{{shortName}} se tomó el tiempo de entender nuestro cronograma de desembolso antes de proponer una estructura. Eso es poco común.",
-        "attribution": "Directora de Operaciones, Sector Manufactura"
+        "text": "{{shortName}} se tomó el tiempo de entender bien nuestro cronograma de desembolso antes de proponer nada. Nos guiaron a través de proyecciones de flujo de caja que la mayoría de los intermediarios ni se molestarían en revisar, y la estructura que propusieron encajó casi a la perfección con nuestro ciclo de producción. Ese nivel de atención al detalle es poco común.",
+        "role": "Directora de Operaciones, Sector Manufactura"
       },
       {
-        "text": "Necesitábamos financiamiento sin garantía con rapidez, y el proceso avanzó más rápido que con cualquier banco con el que hubiéramos trabajado antes.",
-        "attribution": "Director General, Importación/Exportación"
+        "text": "Necesitábamos financiamiento sin garantía con rapidez, antes de una fecha límite de envío que no se podía mover. El proceso avanzó más rápido que con cualquier banco con el que hubiéramos trabajado antes, y el equipo se mantuvo receptivo hasta que se liberaron los fondos. Es el tipo de rapidez que nuestra industria realmente necesita.",
+        "role": "Director General, Importación y Exportación"
       },
       {
-        "text": "Estructurar nuestra facilidad según el cronograma de construcción significó que nunca tuvimos efectivo inactivo. Esa atención al detalle marcó la diferencia.",
-        "attribution": "Gerente de Proyecto, Construcción"
+        "text": "Estructurar nuestra facilidad según el cronograma de construcción significó que nunca tuvimos efectivo inactivo entre desembolsos. Cada pago por hito coincidía con el avance real de la obra, no con un cronograma genérico. Esa atención al detalle marcó una diferencia real en nuestros márgenes.",
+        "role": "Gerente de Proyecto, Construcción"
       }
     ],
     "prevTestimonial": "Testimonio anterior",

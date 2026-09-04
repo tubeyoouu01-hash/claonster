@@ -75,16 +75,16 @@
     "ctaButton": "Bắt Đầu Đăng Ký",
     "testimonials": [
       {
-        "text": "{{shortName}} đã dành thời gian để hiểu lịch giải ngân của chúng tôi trước khi đề xuất một cấu trúc. Điều đó thật hiếm có.",
-        "attribution": "Giám Đốc Vận Hành, Ngành Sản Xuất"
+        "text": "{{shortName}} đã dành thời gian để thực sự hiểu lịch giải ngân của chúng tôi trước khi đề xuất bất cứ điều gì. Họ hướng dẫn chúng tôi qua các dự báo dòng tiền mà hầu hết các bên môi giới sẽ không buồn xem xét, và cấu trúc mà họ đưa ra gần như khớp hoàn toàn với chu kỳ sản xuất của chúng tôi. Sự chú ý đến từng chi tiết như vậy thật hiếm có.",
+        "role": "Giám Đốc Vận Hành, Ngành Sản Xuất"
       },
       {
-        "text": "Chúng tôi cần tài trợ không thế chấp nhanh chóng, và quy trình diễn ra nhanh hơn bất kỳ ngân hàng nào mà chúng tôi từng làm việc trước đây.",
-        "attribution": "Tổng Giám Đốc, Ngành Xuất Nhập Khẩu"
+        "text": "Chúng tôi cần tài trợ không thế chấp nhanh chóng, trước một thời hạn giao hàng không thể dời lại. Quy trình diễn ra nhanh hơn bất kỳ ngân hàng nào mà chúng tôi từng làm việc trước đây, và đội ngũ luôn phản hồi kịp thời cho đến khi vốn được giải ngân. Đó chính là tốc độ mà ngành của chúng tôi thực sự cần.",
+        "role": "Tổng Giám Đốc, Ngành Xuất Nhập Khẩu"
       },
       {
-        "text": "Việc thiết kế hạn mức theo tiến độ thi công có nghĩa là chúng tôi không bao giờ có vốn nhàn rỗi. Sự chú ý đến từng chi tiết đó đã tạo nên sự khác biệt thực sự.",
-        "attribution": "Quản Lý Dự Án, Ngành Xây Dựng"
+        "text": "Việc thiết kế hạn mức theo tiến độ thi công có nghĩa là chúng tôi không bao giờ có vốn nhàn rỗi giữa các lần giải ngân. Mỗi khoản thanh toán theo mốc đều khớp với tiến độ thực tế tại công trường, chứ không phải theo một lịch trình chung chung. Sự chú ý đến từng chi tiết đó đã tạo ra khác biệt thực sự cho biên lợi nhuận của chúng tôi.",
+        "role": "Quản Lý Dự Án, Ngành Xây Dựng"
       }
     ],
     "prevTestimonial": "Nhận xét trước",

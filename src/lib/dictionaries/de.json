@@ -75,16 +75,16 @@
     "ctaButton": "Antrag Starten",
     "testimonials": [
       {
-        "text": "{{shortName}} hat sich die Zeit genommen, unseren Auszahlungsplan zu verstehen, bevor eine Struktur vorgeschlagen wurde. Das ist selten.",
-        "attribution": "Betriebsleiterin, Fertigungsbranche"
+        "text": "{{shortName}} hat sich die Zeit genommen, unseren Auszahlungsplan wirklich zu verstehen, bevor überhaupt etwas vorgeschlagen wurde. Man führte uns durch Cashflow-Prognosen, die sich die meisten Vermittler gar nicht erst ansehen würden, und die letztlich vorgeschlagene Struktur passte fast exakt zu unserem Produktionszyklus. Diese Detailgenauigkeit ist selten.",
+        "role": "Betriebsleiterin, Fertigungsbranche"
       },
       {
-        "text": "Wir brauchten schnell eine besicherungsfreie Finanzierung, und der Prozess verlief schneller als bei jeder Bank, mit der wir zuvor zusammengearbeitet hatten.",
-        "attribution": "Geschäftsführer, Import/Export"
+        "text": "Wir brauchten schnell eine besicherungsfreie Finanzierung, vor einer Versandfrist, die sich nicht verschieben ließ. Der Prozess verlief schneller als bei jeder Bank, mit der wir zuvor zusammengearbeitet hatten, und das Team blieb bis zur Auszahlung durchgehend erreichbar. Genau diese Geschwindigkeit braucht unsere Branche.",
+        "role": "Geschäftsführer, Import und Export"
       },
       {
-        "text": "Die Fazilität am Bauzeitplan auszurichten bedeutete, dass unser Kapital nie ungenutzt blieb. Diese Liebe zum Detail machte den entscheidenden Unterschied.",
-        "attribution": "Projektleiter, Bauwesen"
+        "text": "Die Fazilität am Bauzeitplan auszurichten bedeutete, dass zwischen den Abrufen nie Kapital ungenutzt blieb. Jede Meilensteinzahlung passte zum tatsächlichen Baufortschritt vor Ort, nicht zu einem generischen Zeitplan. Diese Liebe zum Detail machte einen echten Unterschied für unsere Margen.",
+        "role": "Projektleiter, Bauwesen"
       }
     ],
     "prevTestimonial": "Vorherige Referenz",

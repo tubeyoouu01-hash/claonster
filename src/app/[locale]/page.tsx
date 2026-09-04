@@ -11,6 +11,8 @@ import { SectorCard } from "@/components/SectorCard";
 import { StepList } from "@/components/StepList";
 import { CtaBand } from "@/components/CtaBand";
 import { TestimonialCarousel } from "@/components/TestimonialCarousel";
+import { testimonialPeople } from "@/lib/testimonials";
+// import { TestimonialCarousel } from "@/components/TestimonialCarousel";
 
 export default async function HomePage({
   params,
@@ -153,11 +155,19 @@ export default async function HomePage({
 
       {/* Testimonials */}
       <section className="mx-auto max-w-4xl px-6 py-20">
-        <TestimonialCarousel
+        {/* <TestimonialCarousel
           testimonials={dict.home.testimonials}
           prevLabel={dict.home.prevTestimonial}
           nextLabel={dict.home.nextTestimonial}
-        />
+        /> */}
+
+               <TestimonialCarousel
+                  testimonials={dict.home.testimonials}
+                  people={testimonialPeople}
+                  locale={locale}
+                  prevLabel={dict.home.prevTestimonial}
+                  nextLabel={dict.home.nextTestimonial}
+                />
       </section>
 
       <CtaBand
