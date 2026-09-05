@@ -8,16 +8,18 @@
  * To reskin this project for a real company: edit this file. That's it.
  */
 
-export const SITE_NAME = "Fairhaven Capital Partners";
-export const SITE_SHORT_NAME = "Fairhaven";
+export const SITE_NAME = "Canster Capital Partners";
+export const SITE_SHORT_NAME = "Canster";
 export const SITE_SUFFIX = "Capital Partners";
-export const SITE_DOMAIN = "fairhavencapital.example";
+export const SITE_DOMAIN = "canstarloans.com";
 
-export const CONTACT_EMAIL = `hello@${SITE_DOMAIN}`;
-export const CONTACT_PHONE_DISPLAY = "+61 2 5550 1234";
-export const CONTACT_PHONE_HREF = "+61255501234"; // for tel: links
+export const CONTACT_EMAIL = `Credit@canstarloans.com`;
+// export const CONTACT_PHONE_DISPLAY = "+61 2 5550 1234";
+export const CONTACT_PHONE_DISPLAY = "+61 4 6825 0946";
+export const CONTACT_PHONE_HREF = "+61468250946"; // for tel: links
 
-export const OFFICE_ADDRESS_LINE = "Level 12, 60 Margaret Street";
+export const OFFICE_ADDRESS_LINE = "";
+// export const OFFICE_ADDRESS_LINE = "Level 12, 1 Sample Street";
 export const OFFICE_CITY_LINE = "Sydney NSW 2000, Australia";
 export const OFFICE_FULL_ADDRESS = `${OFFICE_ADDRESS_LINE}, ${OFFICE_CITY_LINE}`;
 
@@ -26,17 +28,16 @@ export const COMPANY_FOUNDED_YEAR = 2004;
 export type SocialPlatform = "youtube" | "facebook" | "linkedin" | "x" | "tiktok";
 
 export const SOCIAL_LINKS: { platform: SocialPlatform; name: string; href: string }[] = [
-  { platform: "youtube", name: "YouTube", href: "#" },
-  { platform: "facebook", name: "Facebook", href: "#" },
-  { platform: "linkedin", name: "LinkedIn", href: "#" },
-  { platform: "x", name: "X", href: "#" },
-  { platform: "tiktok", name: "TikTok", href: "#" },
+  { platform: "youtube", name: "YouTube", href: "https://www.youtube.com/@canstar" },
+  { platform: "facebook", name: "Facebook", href: "https://web.facebook.com/Canstar/?_rdc=1&_rdr#" },
+  { platform: "linkedin", name: "LinkedIn", href: "https://au.linkedin.com/company/canstar" },
+  { platform: "x", name: "X", href: "https://x.com/Canstarloans" },
+  { platform: "tiktok", name: "TikTok", href: "https://www.tiktok.com/@canstarloans" },
 ];
 
 /**
- * Notes for whoever configures this for a live deployment:
- * - SITE_DOMAIN currently uses the .example TLD (reserved for docs/testing per RFC 2606) — replace with your real domain
- * - CONTACT_PHONE_DISPLAY is a placeholder number — replace with a real, dialable line
- * - SOCIAL_LINKS all point to "#" — replace with real profile URLs
- * - about.licenseNote in each dictionary file contains an "[ACL Number]" placeholder — replace with your real Australian Credit Licence number (or remove if not applicable in your jurisdiction)
+ * All values above are intentional placeholders for a portfolio demo:
+ * - SITE_DOMAIN uses the .example TLD, reserved by RFC 2606 for documentation/sample use
+ * - CONTACT_PHONE_DISPLAY is not a real, dialable number
+ * - SOCIAL_LINKS all point to "#" rather than real profiles
  */
