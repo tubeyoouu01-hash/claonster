@@ -9,9 +9,10 @@ import { StatsBar } from "@/components/StatsBar";
 import { ProductCard } from "@/components/ProductCard";
 import { SectorCard } from "@/components/SectorCard";
 import { StepList } from "@/components/StepList";
+import { CtaBand } from "@/components/CtaBand";
 import { TestimonialCarousel } from "@/components/TestimonialCarousel";
 import { testimonialPeople } from "@/lib/testimonials";
-import { ApplyForm } from "@/components/ApplyForm";
+// import { TestimonialCarousel } from "@/components/TestimonialCarousel";
 
 export default async function HomePage({
   params,
@@ -32,6 +33,13 @@ export default async function HomePage({
             <h1 className="font-display text-4xl sm:text-5xl leading-[1.1]">{dict.home.heroTitle}</h1>
             <p className="mt-6 text-paper/75 text-lg leading-relaxed max-w-xl">{dict.home.heroSubtitle}</p>
             <div className="mt-9 flex flex-wrap items-center gap-4">
+              <Link
+                href={`/${locale}/apply`}
+                className="inline-flex items-center gap-2 rounded-sm bg-gold px-7 py-3.5 text-sm font-medium text-ink-deep hover:bg-gold-light transition-colors"
+              >
+                {dict.home.heroCtaPrimary}
+                <ArrowRight className="h-4 w-4" strokeWidth={2} />
+              </Link>
               <Link
                 href={`/${locale}/how-it-works`}
                 className="inline-flex items-center gap-2 text-sm font-medium text-paper/85 hover:text-gold transition-colors border-b border-paper/30 hover:border-gold pb-1"
@@ -147,26 +155,27 @@ export default async function HomePage({
 
       {/* Testimonials */}
       <section className="mx-auto max-w-4xl px-6 py-20">
-        <TestimonialCarousel
+        {/* <TestimonialCarousel
           testimonials={dict.home.testimonials}
-          people={testimonialPeople}
-          locale={locale}
           prevLabel={dict.home.prevTestimonial}
           nextLabel={dict.home.nextTestimonial}
-        />
+        /> */}
+
+               <TestimonialCarousel
+                  testimonials={dict.home.testimonials}
+                  people={testimonialPeople}
+                  locale={locale}
+                  prevLabel={dict.home.prevTestimonial}
+                  nextLabel={dict.home.nextTestimonial}
+                />
       </section>
 
-      {/* Apply directly, right here */}
-      <section id="apply" className="bg-paper-dim/60 border-y border-hairline py-20">
-        <div className="mx-auto max-w-3xl px-6">
-          <div className="text-center mb-12">
-            <h2 className="font-display text-3xl sm:text-4xl text-ink mb-4">{dict.apply.heroTitle}</h2>
-            <p className="text-slate leading-relaxed">{dict.apply.heroSubtitle}</p>
-          </div>
-          <h3 className="font-display text-2xl text-ink mb-8">{dict.apply.formTitle}</h3>
-          <ApplyForm dict={dict} />
-        </div>
-      </section>
+      <CtaBand
+        title={dict.home.ctaTitle}
+        body={dict.home.ctaBody}
+        buttonLabel={dict.home.ctaButton}
+        href={`/${locale}/apply`}
+      />
     </>
   );
 }
